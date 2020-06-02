@@ -1,0 +1,6 @@
+FirstName,LastName,Age,Sex,preTestScore,postTestScore,location
+abc,mno,12.0,m,90.0,65.0,
+,n/a,,,90.0,?,
+ghi,pqr,12.0,f,-,65.0,?
+jkl,stu,12.0,f,90.0,62.0,
+mno,vwx,12.0,m,89.0,63.0,
