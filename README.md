@@ -1,1 +1,19 @@
 # PYTHON_ML_DS
+
+## Module 1 - Python Programming
+  1. Intro to Python
+  2. Data Structures in Python (List, Tuple, Set, Dictionary)
+  3. Control Statements (Decision and Loops)
+  4. Functions and Modules
+ 
+## Module 2 - Python for Data Science
+  5. Numpy
+  6. Pandas
+  7. Missing Value Treatment
+  8. Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)
+  
+ ## Module 3 - Machine Learning
+  9. K - Nearest Neighbours
+  10. Linear Regression
+  11. Logistic Regression
+  12. Gradient Descent
