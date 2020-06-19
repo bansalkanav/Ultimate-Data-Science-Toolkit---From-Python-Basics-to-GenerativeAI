@@ -24,3 +24,7 @@
   
 ## Module 4 - Case Studies
   - Car Price Prediction
+  - Spam Detection
+  - Adult Income Prediction
+  - Spell Correction
+  - Extras
