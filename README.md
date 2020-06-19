@@ -17,3 +17,10 @@
   10. Linear Regression
   11. Logistic Regression
   12. Gradient Descent
+  13. Decision Trees
+  14. Support Vector Machines
+  15. K - Means
+  16. Principal component Analysis
+  
+## Module 4 - Case Studies
+  - Car Price Prediction
