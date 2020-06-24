@@ -23,8 +23,9 @@
   16. Principal component Analysis
   
 ## Module 4 - Case Studies
-  - Car Price Prediction
-  - Spam Detection
-  - Adult Income Prediction
-  - Spell Correction
+  - Car Price Prediction (Regression)
+  - Airline Sentiment Analysis (NLP - Classification)
+  - Spam Detection (NLP - Classification)
+  - Adult Income Prediction (Classification)
+  - Web App Development
   - Extras
