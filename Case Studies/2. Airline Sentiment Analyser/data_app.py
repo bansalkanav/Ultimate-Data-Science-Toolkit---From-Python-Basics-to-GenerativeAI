@@ -8,6 +8,7 @@ import seaborn as sns
 import plotly.express as px
 from wordcloud import WordCloud,STOPWORDS
 
+
 dataset_loc = "data/Tweets.csv"
 image_loc = "data/airline.jpeg"
 
@@ -24,6 +25,7 @@ def load_data(dataset_loc):
     df = pd.read_csv(dataset_loc)
     df = df.loc[:, ['airline_sentiment', 'airline', 'text']]
     return df
+
 
 def load_description(df):
         # Preview of the dataset
@@ -53,14 +55,13 @@ def load_description(df):
 
 
 # WordCloud
-def wordcloud(df, kind):
+def load_wordcloud(df, kind):
     temp_df = df.loc[df['airline_sentiment']==kind, :]
     words = ' '.join(temp_df['text'])
     cleaned_word = " ".join([word for word in words.split() if 'http' not in word and not word.startswith('@') and word != 'RT'])
     wc = WordCloud(stopwords=STOPWORDS, background_color='black', width=1600, height=800).generate(cleaned_word)
-    plt.imshow(wc)
-    plt.axis('off')
     wc.to_file("data/wc.png")
+
 
 def load_viz(df):
         st.header("Data Visualisation")
@@ -91,7 +92,7 @@ def load_viz(df):
         # Show WordCloud
         st.subheader("Word Cloud")
         type = st.radio("Choose the sentiment?", ("positive", "negative"))
-        wordcloud(df, type)
+        load_wordcloud(df, type)
         st.image("data/wc.png", use_column_width = True)
 
 
@@ -113,6 +114,7 @@ def main():
 
     # data viz
     load_viz(df)
+
 
 
 if(__name__ == '__main__'):
