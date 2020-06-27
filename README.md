@@ -27,5 +27,5 @@
   - Airline Sentiment Analysis (NLP - Classification)
   - Spam Detection (NLP - Classification)
   - Adult Income Prediction (Classification)
-  - Web App Development
+  - Web App Development + Serialization and Deserialization
   - Extras
