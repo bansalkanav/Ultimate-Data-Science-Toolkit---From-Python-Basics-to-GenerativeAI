@@ -29,3 +29,6 @@
   - Adult Income Prediction (Classification)
   - Web App Development + Serialization and Deserialization
   - Extras
+
+## Module 5 - Deep Learning
+  - Coming Soon (in July)
