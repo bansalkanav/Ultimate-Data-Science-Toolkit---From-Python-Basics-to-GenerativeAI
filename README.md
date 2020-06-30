@@ -28,7 +28,7 @@
   - Spam Detection (NLP - Classification)
   - Adult Income Prediction (Classification)
   - Web App Development + Serialization and Deserialization
-  - Extras
+  - Deployment -> Open this link to learn more http://18.217.168.12:8502/
 
 ## Module 5 - Deep Learning
   - Coming Soon (in July)
