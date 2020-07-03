@@ -7,28 +7,28 @@
   4. [Functions and Modules](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/4.%20Functions%20and%20Modules)
  
 ## Module 2 - Python for Data Science
-  5. Numpy
-  6. Pandas
-  7. Missing Value Treatment
-  8. Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)
+  5. [Numpy](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/5.%20Numpy)
+  6. [Pandas](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/6.%20Pandas)
+  7. [Missing Value Treatment](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/7.%20Missing%20Value%20Treatment)
+  8. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/8.%20EDA)
   
  ## Module 3 - Machine Learning
-  9. K - Nearest Neighbours
-  10. Linear Regression
-  11. Logistic Regression
-  12. Gradient Descent
-  13. Decision Trees
-  14. Support Vector Machines
-  15. K - Means
-  16. Principal component Analysis
+  9. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
+  10. [Linear Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/10.%20Linear%20Regression)
+  11. [Logistic Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/11.%20Logistic%20Regression)
+  12. [Gradient Descent](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/12.%20Gradient%20Descent)
+  13. [Decision Trees](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/13.%20Decision%20Trees)
+  14. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
+  15. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
+  16. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
   
 ## Module 4 - Case Studies
-  - Car Price Prediction (Regression)
-  - Airline Sentiment Analysis (NLP - Classification)
-  - Spam Detection (NLP - Classification)
-  - Adult Income Prediction (Classification)
-  - Web App Development + Serialization and Deserialization http://18.217.168.12:8501/
-  - Deployment -> Open this link to learn more http://18.217.168.12:8502/
+  - [Car Price Prediction (Regression)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/1.%20Car%20Price%20Prediction)
+  - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
+  - [Spam Detection (NLP - Classification)]
+  - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/3.%20Adult%20Income%20Prediction)
+  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> Open this link to check live website http://18.217.168.12:8501/
+  - [Deployment](http://18.217.168.12:8502/) -> Open this link to learn more http://18.217.168.12:8502/
 
 ## Module 5 - Deep Learning
   - Coming Soon (in July)
