@@ -27,8 +27,8 @@
   - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
   - [Spam Detection (NLP - Classification)]
   - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/3.%20Adult%20Income%20Prediction)
-  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> Open this link to check live website http://18.217.168.12:8501/
-  - [Deployment](http://18.217.168.12:8502/) -> Open this link to learn more http://18.217.168.12:8502/
+  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> To check live website [Click Here](http://18.217.168.12:8501/)
+  - [Deployment](http://18.217.168.12:8502/) -> To learn more [Click Here](http://18.217.168.12:8502/)
 
 ## Module 5 - Deep Learning (Coming Soon in July)
   - Coming Soon (in July)
