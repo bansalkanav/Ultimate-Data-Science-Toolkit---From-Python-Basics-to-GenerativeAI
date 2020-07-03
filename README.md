@@ -1,10 +1,10 @@
 # PYTHON_ML_DS
 
 ## Module 1 - Python Programming
-  1. Intro to Python
-  2. Data Structures in Python (List, Tuple, Set, Dictionary)
-  3. Control Statements (Decision and Loops)
-  4. Functions and Modules
+  1. [Intro to Python](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/1.%20Intro%20to%20Python)
+  2. [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/2.%20Data%20Structures)
+  3. [Control Statements (Decision and Loops)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/3.%20Control%20Statements)
+  4. [Functions and Modules](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/4.%20Functions%20and%20Modules)
  
 ## Module 2 - Python for Data Science
   5. Numpy
