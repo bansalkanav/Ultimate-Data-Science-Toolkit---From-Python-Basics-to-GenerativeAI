@@ -30,5 +30,5 @@
   - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> Open this link to check live website http://18.217.168.12:8501/
   - [Deployment](http://18.217.168.12:8502/) -> Open this link to learn more http://18.217.168.12:8502/
 
-## Module 5 - Deep Learning
+## Module 5 - Deep Learning (Coming Soon in July)
   - Coming Soon (in July)
