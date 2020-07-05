@@ -29,6 +29,7 @@
   - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/3.%20Adult%20Income%20Prediction)
   - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> To check live website [Click Here](http://18.217.168.12:8501/)
   - [Deployment](http://18.217.168.12:8502/) -> To learn more [Click Here](http://18.217.168.12:8502/)
+  - **NOTE - Above two website links are down for some time
 
 ## Module 5 - Deep Learning (Coming Soon in July)
   - Coming Soon (in July)
