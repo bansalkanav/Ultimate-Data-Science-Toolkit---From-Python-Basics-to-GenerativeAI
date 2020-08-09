@@ -32,4 +32,6 @@
   - **NOTE - Above two website links are down for some time
 
 ## Module 5 - Deep Learning (Coming Soon in July)
-  - Coming Soon (in July)
+  - [Introduction to Deep Learning](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/17.%20Introduction%20to%20Deep%20Learning)
+  - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/18.%20Training%20Deep%20Neural%20Network)
+  - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/19.%20Convolutional%20Neural%20Network)
