@@ -13,7 +13,7 @@ from pickle import dump, load
 #
 # classifier_loc = "pickle/logit_model.pkl"
 # encoder_loc = "pickle/countvectorizer.pkl"
-# image_loc = "data/twitter_img.jpg"
+# image_loc = "img/twitter_img.jpg"
 
 
 def preprocess(tweet):
@@ -65,7 +65,7 @@ def predict(tweet):
 
 def main():
 
-    st.image("data/twitter_img.jpg", use_column_width = True)
+    st.image("img/twitter_img.jpg", use_column_width = True)
 
     tweet = st.text_input('Enter your tweet')
 
