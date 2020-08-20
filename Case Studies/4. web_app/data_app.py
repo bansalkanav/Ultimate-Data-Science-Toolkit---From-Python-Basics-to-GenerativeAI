@@ -20,7 +20,7 @@ def load_sidebar():
     st.sidebar.subheader("Twitter US Airline Sentiment")
     st.sidebar.success("Analyze how travelers in February 2015 expressed their feelings on Twitter")
     st.sidebar.info("This data originally came from Crowdflower's Data for Everyone library.")
-    st.sidebar.warning("Made with :heart: for JIET :sunglasses:")
+    st.sidebar.warning("Made with :heart: :sunglasses:")
 
 # data
 @st.cache

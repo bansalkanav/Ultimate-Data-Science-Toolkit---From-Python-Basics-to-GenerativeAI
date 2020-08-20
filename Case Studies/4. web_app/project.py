@@ -9,7 +9,7 @@ def main():
     # EDA
     da.main()
 
-    st.header("LogisticRegression Predictor")
+    st.header("LogisticRegression Predictor :sunglasses:")
 
     # Predictor
     ma.main()
