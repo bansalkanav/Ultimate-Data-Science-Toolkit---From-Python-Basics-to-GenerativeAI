@@ -36,3 +36,11 @@
   - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/18.%20Training%20Deep%20Neural%20Network)
   - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/19.%20Convolutional%20Neural%20Network)
   - Recurrent Neural Network (Coming Soon)
+  
+  
+  
+ ## Internship Tasks 
+ 
+  - Task - 1 -> Make a Portfolio
+  
+  - Task - 2 -> Coming Soon
