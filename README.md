@@ -39,7 +39,7 @@
   
   
   
- ## Internship Tasks 
+ ## Internship Tasks - [Fill this Form](https://forms.gle/eUH4g425chDUum9dA)
  
   - Task - 1 -> Make a Web Portfolio
     - Use HTML and Bootstrap for frontend.
@@ -55,3 +55,5 @@
     - Read the Seaborn Documentation
     - Create 10 plots which we have not covered in the class.
     - Work on same AMCAT data.
+    
+    
