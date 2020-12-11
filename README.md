@@ -50,3 +50,8 @@
     - Data Set Description [Click Here](https://docs.google.com/document/d/14d4n90nryAUgA-IdNSXJAFzmynn6WTT4XfS7N4tum7s/edit?usp=sharing)
     - Task Description - Analyse the data using pandas and come up with 5 observations.
     - P.S - Use whatever we have already covered in the class. Also look into more pandas topic like pivot tables and cross tab for analysis.
+    
+   - Task - 3 -> 10 Seaborn Plots
+    - Read the Seaborn Documentation.
+    - Create 10 plots which we have not covered in the class.
+    - Work on same AMCAT data.
