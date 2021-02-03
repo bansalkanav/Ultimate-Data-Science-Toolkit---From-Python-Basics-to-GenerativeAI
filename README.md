@@ -39,21 +39,3 @@
   
   
   
- ## Internship Tasks - [Fill this Form](https://forms.gle/WQ6puAC5AzYpuMok6)
- 
-  - Task - 1 -> Make a Web Portfolio
-    - Use HTML and Bootstrap for frontend.
-    - Use Flask for backend.
-  
-  - Task - 2 -> AMCAT Data Analysis
-    - Data Set [Click Here](https://drive.google.com/file/d/1mV_ifvzzrlPWgdSzrwW5ZK-aF3S9tydZ/view?usp=sharing)
-    - Data Set Description [Click Here](https://docs.google.com/document/d/14d4n90nryAUgA-IdNSXJAFzmynn6WTT4XfS7N4tum7s/edit?usp=sharing)
-    - Task Description - Analyse the data using pandas and come up with 5 observations.
-    - P.S - Use whatever we have already covered in the class. Also look into more pandas topic like pivot tables and cross tab for analysis.
-   
-  - Task - 3 -> 10 Seaborn Plots
-    - Read the Seaborn Documentation
-    - Create 10 plots which we have not covered in the class.
-    - Work on same AMCAT data.
-    
-    
