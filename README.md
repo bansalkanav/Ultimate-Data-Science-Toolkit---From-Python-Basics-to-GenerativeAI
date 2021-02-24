@@ -1,4 +1,4 @@
-# Getting Started with Machine Learning and Deep Learning
+# Getting started with Machine Learning and Deep Learning
 
 ## Module 1 - Python Programming
   1. [Intro to Python](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/1.%20Intro%20to%20Python)
