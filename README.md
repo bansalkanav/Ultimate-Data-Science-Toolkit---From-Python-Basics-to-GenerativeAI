@@ -21,6 +21,7 @@
   14. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
   15. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
   16. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
+  17. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/14.1.%20Hyperparameter%20Tuning)
   
 ## Module 4 - Case Studies
   - [Car Price Prediction (Regression)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/1.%20Car%20Price%20Prediction)
