@@ -8,12 +8,16 @@ import seaborn as sns
 import plotly.express as px
 from wordcloud import WordCloud,STOPWORDS
 import create_wordcloud
+from PIL import Image
 
 
 dataset_loc = "data/Tweets.csv"
 image_loc = "img/airline.jpeg"
 pos_loc = "img/pos.png"
 neg_loc = "img/neg.png"
+img_airplane = Image.open(image_loc)
+img_pos_wc = Image.open(pos_loc)
+img_neg_wc = Image.open(neg_loc)
 
 # sidebar
 def load_sidebar():
@@ -70,8 +74,9 @@ def load_viz(df):
         st.header("Data Visualisation")
         # show tweet sentiment count
         st.subheader("Seaborn - Tweet Sentiment Count")
-        st.write(sns.countplot(x='airline_sentiment', data=df))
-        st.pyplot()
+        fig = plt.figure()
+        sns.countplot(x='airline_sentiment', data=df)
+        st.pyplot(fig)
 
         # ***************
         st.subheader("Plotly - Tweet Sentiment Count")
@@ -82,15 +87,17 @@ def load_viz(df):
 
         # show airline count
         st.subheader("Airline Count")
-        st.write(sns.countplot(x='airline', data=df))
-        st.pyplot()
+        fig = plt.figure()
+        sns.countplot(x='airline', data=df)
+        st.pyplot(fig)
 
         # Show sentiment based on airline
         st.subheader("Airline Count")
         airline = st.radio("Choose an Airline?", ("US Airways", "United", "American", "Southwest", "Delta", "Virgin America"))
         temp_df = df.loc[df['airline']==airline, :]
-        st.write(sns.countplot(x='airline_sentiment', order=['neutral', 'positive', 'negative'], data=temp_df))
-        st.pyplot()
+        fig = plt.figure()
+        sns.countplot(x='airline_sentiment', order=['neutral', 'positive', 'negative'], data=temp_df)
+        st.pyplot(fig)
 
         # Show WordCloud
         st.subheader("Word Cloud")
@@ -98,9 +105,9 @@ def load_viz(df):
         if(os.path.isfile(pos_loc)==False or os.path.isfile(neg_loc)==False):
             create_wordcloud.main()
         if(type=="positive"):
-            st.image(pos_loc, use_column_width = True)
+            st.image(img_pos_wc, use_column_width = True)
         else:
-            st.image(neg_loc, use_column_width = True)
+            st.image(img_neg_wc, use_column_width = True)
 
 
 
@@ -111,7 +118,7 @@ def main():
 
     # Title/ text
     st.title('Airline Sentiment Analysis')
-    st.image(image_loc, use_column_width = True)
+    st.image(img_airplane, use_column_width = True)
     st.text('Analyze how travelers in February 2015 expressed their feelings on Twitter')
 
     # loading the data
