@@ -10,7 +10,7 @@ from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 
 from pickle import dump, load
-#
+
 # classifier_loc = "pickle/logit_model.pkl"
 # encoder_loc = "pickle/countvectorizer.pkl"
 # image_loc = "img/twitter_img.jpg"
