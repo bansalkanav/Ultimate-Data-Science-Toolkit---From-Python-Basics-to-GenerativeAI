@@ -1,41 +1,48 @@
-Heroku Architectures (PaaS)
+# Heroku Deployment
 
-a. requirements.txt
-b. Procfile and setup.sh
-c. Autodetect the app type
-d. git push & start running
+## Heroku is PaaS Architecture
 
-_________________________________________________
-
-
-Python VirtualEnv
-a. pip list
-b. python -m venv venv/
-c. .\venv\Scripts\activate => activate in Windows
-d. where python
-e. deactivate
-
-Install these packages in virtualenv
-pip install matplotlib seaborn plotly sklearn nltk WordCloud
-pip freeze > requirements.txt
+Along with your application files you need to take care of below mentioned steps:  
+1. You need all the below metioned files for deployment:
+  a. requirements.txt
+  b. Procfile
+  c. setup.sh (You need setup.sh only for Streamlit)
+2. Autodetect the app type
+3. git push & start running
 
 _________________________________________________
 
 
-import nltk
-nltk.download('stopwords')
+Create a Python VirtualEnv
+a. `pip list`
+b. `python -m venv venv/`
+c. `.\venv\Scripts\activate` => activate virtual environment in Windows
+d. `where python`
+e. `deactivate`
+
+Install these packages in virtualenv:  
+`pip install matplotlib seaborn plotly sklearn nltk WordCloud`
+
+Create requirement.txt file using below mentioned command:  
+`pip freeze > requirements.txt`
+
+_________________________________________________
+
+
+import nltk  
+nltk.download('stopwords')  
 nltk.download('wordnet')
 
 _________________________________________________
 
 Procfile (For Flask)
-web: gunicorn app:project
+`web: gunicorn app:project`
 web - Create a Web Dynos
 gunicorn app - I want to run a gunicorn app. If multiple people use my app, gunicorn make sure of multi threading and processing
 app - code is in app.py
 
 Procfile (For Streamlit)
-web: sh setup.sh && streamlit run project.py
+`web: sh setup.sh && streamlit run project.py`
 
 _________________________________________________
 
@@ -49,21 +56,21 @@ _________________________________________________
 
 Install Heroku CLI and Git
 
-heroku login
+`heroku login`
 
 Create a git repo and commit it locally
-git init .
-git add *
-git commit -m "commit_i"
+`git init .`
+`git add *`
+`git commit -m "commit_i"`
 
 
-heroku git:remote -a app_name
-git push heroku master
+`heroku git:remote -a app_name`
+`git push heroku master`
 
 _________________________________________________
 
 Run -
-heroku run bash -a app_name
+`heroku run bash -a app_name`
 
 Stop -
-heroku ps:scale web=0 -a app_name
+`heroku ps:scale web=0 -a app_name`
