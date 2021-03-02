@@ -41,7 +41,7 @@
   
 ## Module 6 - Statistics for Data Science
   - [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/1.%20Normal%20Distributions)
-  - [Central Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
+  - [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
   - [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/3.%20Hypothesis%20Testing)
   - [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/4.%20Chi%20Square%20Test)
   
