@@ -13,12 +13,12 @@ Along with your application files you need to take care of below mentioned steps
 _________________________________________________
 
 
-Create a Python VirtualEnv
-a. `pip list`
-b. `python -m venv venv/`
-c. `.\venv\Scripts\activate` => activate virtual environment in Windows
-d. `where python`
-e. `deactivate`
+Create a Python VirtualEnv  
+a. `pip list`  
+b. `python -m venv venv/`  
+c. `.\venv\Scripts\activate` => activate virtual environment in Windows  
+d. `where python`  
+e. `deactivate`  
 
 Install these packages in virtualenv:  
 `pip install matplotlib seaborn plotly sklearn nltk WordCloud`
@@ -46,11 +46,11 @@ Procfile (For Streamlit)
 
 _________________________________________________
 
-Folder Structure - 
-requirements.txt
-Procfile
-setup.sh
-project_files
+Folder Structure -  
+requirements.txt  
+Procfile  
+setup.sh  
+project_files  
 
 _________________________________________________
 
