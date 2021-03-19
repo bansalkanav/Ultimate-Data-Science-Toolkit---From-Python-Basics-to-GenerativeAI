@@ -27,7 +27,7 @@ Create requirement.txt file using below mentioned command:
 `pip freeze > requirements.txt`
 
 _________________________________________________
-
+`This part is required for NLP Projects`
 
 import nltk  
 nltk.download('stopwords')  
