@@ -1,0 +1,1 @@
+## Execute 'pip freeze > requirements.txt' to get this file
