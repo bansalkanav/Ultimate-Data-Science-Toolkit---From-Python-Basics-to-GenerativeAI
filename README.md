@@ -7,27 +7,27 @@
   4. [Functions and Modules](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/4.%20Functions%20and%20Modules)
  
 ## Module 2 - Python for Data Science
-  5. [Numpy](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/5.%20Numpy)
-  6. [Pandas](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/6.%20Pandas)
-  7. [Missing Value Treatment](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/7.%20Missing%20Value%20Treatment)
-  8. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/8.%20EDA)
+  1. [Numpy](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/5.%20Numpy)
+  2. [Pandas](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/6.%20Pandas)
+  3. [Missing Value Treatment](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/7.%20Missing%20Value%20Treatment)
+  4. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/8.%20EDA)
   
 ## Module 3 - Statistics for Data Science
-  - [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/1.%20Normal%20Distributions)
-  - [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
-  - [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/3.%20Hypothesis%20Testing)
-  - [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/4.%20Chi%20Square%20Test)
+  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/1.%20Normal%20Distributions)
+  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
+  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/3.%20Hypothesis%20Testing)
+  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/4.%20Chi%20Square%20Test)
   
 ## Module 4 - Machine Learning
-  9. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
-  10. [Linear Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/10.%20Linear%20Regression)
-  11. [Logistic Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/11.%20Logistic%20Regression)
-  12. [Gradient Descent](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/12.%20Gradient%20Descent)
-  13. [Decision Trees](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/13.%20Decision%20Trees)
-  14. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
-  15. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
-  16. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
-  17. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/14.1.%20Hyperparameter%20Tuning)
+  1. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
+  2. [Linear Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/10.%20Linear%20Regression)
+  3. [Logistic Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/11.%20Logistic%20Regression)
+  4. [Gradient Descent](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/12.%20Gradient%20Descent)
+  5. [Decision Trees](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/13.%20Decision%20Trees)
+  6. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
+  7. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
+  8. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
+  9. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/14.1.%20Hyperparameter%20Tuning)
   
 ## Module 5 - Case Studies
   - [Car Price Prediction (Regression)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/1.%20Car%20Price%20Prediction)
