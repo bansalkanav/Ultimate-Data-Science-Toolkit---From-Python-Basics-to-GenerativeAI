@@ -1,6 +1,6 @@
 # Overview of ML Algorithms
 
-**Linear Regresion**
+### Linear Regresion
 
 :warning:  Important Points:
 
@@ -15,7 +15,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**Logistic Regresion**
+### Logistic Regresion
 
 :warning:  Important Points:
 
@@ -30,7 +30,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**K Nearest Neighbour**
+### K Nearest Neighbour
 
 :warning:  Important Points:
 
@@ -45,7 +45,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**Decision Trees**
+### Decision Trees
 
 :warning:  Important Points:
 
@@ -60,7 +60,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**Support Vector Machines**
+### Support Vector Machines
 
 :warning:  Important Points:
 
@@ -75,7 +75,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**Naive Bayes**
+### Naive Bayes
 
 :warning:  Important Points:
 
@@ -90,7 +90,7 @@
 | Problem |  |  |
 | Problem |  |  |
 
-**Random Forest**
+### Random Forest
 
 :warning:  Important Points:
 
