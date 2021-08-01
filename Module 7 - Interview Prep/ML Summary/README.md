@@ -9,11 +9,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### Logistic Regresion
 
@@ -24,11 +24,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### K Nearest Neighbour
 
@@ -39,11 +39,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### Decision Trees
 
@@ -54,11 +54,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### Support Vector Machines
 
@@ -69,11 +69,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### Naive Bayes
 
@@ -84,11 +84,11 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
 
 ### Random Forest
 
@@ -99,8 +99,8 @@
 
 
 
-| Problem | Solution | Remarks |
+| Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Problem |  |  |
-| Problem |  |  |
-| Problem |  |  |
+| Cases |  |  |
+| Cases |  |  |
+| Cases |  |  |
