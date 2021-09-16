@@ -1,5 +1,22 @@
 # Getting started with Machine Learning and Deep Learning
 
+<div align="center">
+
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/bansalkanav/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg?v=103"></a>
+
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/graphs/contributors"><img src="https://img.shields.io/github/contributors/bansalkanav/Machine_Learning_and_Deep_Learning?color=brightgreen"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/stargazers"><img src="https://img.shields.io/github/stars/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/network/members"><img src="https://img.shields.io/github/forks/bansalkanav/Machine_Learning_and_Deep_Learning?color=yellow"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/issues"><img src="https://img.shields.io/github/issues/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/bansalkanav/Machine_Learning_and_Deep_Learning?color=yellow"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/pulls"><img src="https://img.shields.io/github/issues-pr/bansalkanav/Machine_Learning_and_Deep_Learning?color=brightgreen"></a>
+<a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a> 
+</div>
+
 ## Module 1 - Python Programming
   1. [Intro to Python](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/1.%20Intro%20to%20Python)
   2. [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/2.%20Data%20Structures)
