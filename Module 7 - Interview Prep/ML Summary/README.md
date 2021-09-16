@@ -8,12 +8,15 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | alpha | Considering we are using Lasso or Ridge regularization |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
+
 
 ### Logistic Regresion
 
@@ -23,14 +26,17 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | C | C = 1/alpha |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
 
-### K Nearest Neighbour
+
+### K Nearest Neighbor
 
 :warning:  Important Points:
 
@@ -38,12 +44,15 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | K and p | K represents number of nearest neighbors and p is the parameter for Minkowski metric |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
+
 
 ### Decision Trees
 
@@ -53,12 +62,15 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | max_depth |  |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
+
 
 ### Support Vector Machines
 
@@ -68,12 +80,15 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | C and Gamma | if kernel='linear' then C is the only hyperparameter |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
+
 
 ### Naive Bayes
 
@@ -83,12 +98,15 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters |  |  |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
+
 
 ### Random Forest
 
@@ -98,9 +116,11 @@
 	2. Coming Soon
 
 
-
 | Cases | Solution | Remarks |
 | :---: | :---: | :---: |
-| Cases |  |  |
-| Cases |  |  |
-| Cases |  |  |
+| Hyperparameters | n_estimators, max_depth and min_samples_leaf |  |
+| Training Complexity |  |  |
+| Test Complexity |  |  |
+| Outlier Impact |  |  |
+| Missing Value Impact |  |  |
+| Interpretability |  |  |
