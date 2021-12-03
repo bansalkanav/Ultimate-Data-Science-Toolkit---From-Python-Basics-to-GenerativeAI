@@ -8,5 +8,5 @@
 ## Way 2
 
 This application is deployed on Heroku.   
-You can also click on [this link](https://aws-deployment.herokuapp.com/) to access the instruction file.  
+You can also click on [this link](https://aws-deployment.herokuapp.com/) to access the application.  
 If it takes more time to open, just refresh the page.
