@@ -18,22 +18,30 @@
 </div>
 
 ## Module 1 - Python Programming
-  1. [Intro to Python](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/1.%20Intro%20to%20Python)
-  2. [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/2.%20Data%20Structures)
-  3. [Control Statements (Decision and Loops)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/3.%20Control%20Statements)
-  4. [Functions and Modules](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/4.%20Functions%20and%20Modules)
+  1. [Intro to Python](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/01.%20Intro%20to%20Python)
+  2. [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/02.%20Data%20Structures)
+  3. [Control Statements (Decision and Loops)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/03.%20Control%20Statements)
+  4. [Functions and Modules](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/04.%20Functions%20and%20Modules)
+  5. [Object Oriented Programming](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/05.%20Object%20Oriented%20Programming)
+  6. [Exception Handling](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/06.%20Exception%20Handling)
+  7. [File Handling](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/07.%20File%20Handling)
+  8. [Web API](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/08.%20Web%20API)
+  9. [Databases](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/09.%20Databases)
+  10. [List Comprehension, Lambda, Filter, Map, Reduce](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/10.%20Adv%20Topics%20(List%20Comprehension%2C%20Lambda%2C%20Filter%2C%20Map%20and%20Reduce))
+  11. [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews)
  
 ## Module 2 - Python for Data Science
-  1. [Numpy](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/5.%20Numpy)
-  2. [Pandas](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/6.%20Pandas)
-  3. [Missing Value Treatment](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/7.%20Missing%20Value%20Treatment)
-  4. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/8.%20EDA)
+  1. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/1.%20Numpy)
+  2. [Pandas](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/2.%20Pandas)
+  3. [Missing Value Treatment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/3.%20Missing%20Value%20Treatment)
+  4. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/4.%20EDA)
+  5. [Case Study - Data Manipulation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/5.%20Pandas%20Adv%20Manipulation)
   
 ## Module 3 - Statistics for Data Science
-  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/1.%20Normal%20Distributions)
-  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/2.%20Central%20Limit%20Theorem)
-  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/3.%20Hypothesis%20Testing)
-  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Applied%20Statistics/4.%20Chi%20Square%20Test)
+  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/1.%20Normal%20Distributions)
+  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/2.%20Central%20Limit%20Theorem)
+  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/3.%20Hypothesis%20Testing)
+  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/4.%20Chi%20Square%20Test)
   
 ## Module 4 - Machine Learning
   1. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
