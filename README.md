@@ -44,30 +44,32 @@
   4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/4.%20Chi%20Square%20Test)
   
 ## Module 4 - Machine Learning
-  1. [K - Nearest Neighbours](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/9.%20K%20-%20NN)
-  2. [Linear Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/10.%20Linear%20Regression)
-  3. [Logistic Regression](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/11.%20Logistic%20Regression)
-  4. [Gradient Descent](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/12.%20Gradient%20Descent)
-  5. [Decision Trees](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/13.%20Decision%20Trees)
-  6. [Support Vector Machines](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/14.%20Support%20Vector%20Machines)
-  7. [K - Means](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/15.%20K%20Means)
-  8. [Principal component Analysis](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/16.%20PCA)
-  9. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/14.1.%20Hyperparameter%20Tuning)
+  1. [Data Preparation and Modelling with SKLearn](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/01.%20Data%20Preparation%20and%20Modelling%20with%20sklearn)
+  2. [Working with Text Data](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/02.%20Working%20with%20Text%20Data)
+  3. [K - Nearest Neighbours](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/03.%20K%20-%20NN)
+  4. [Linear Regression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/04.%20Linear%20Regression)
+  5. [Logistic Regression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Logistic%20Regression)
+  6. [Gradient Descent](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/06.%20Gradient%20Descent)
+  7. [Decision Trees](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/07.%20Decision%20Trees)
+  8. [Support Vector Machines](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/08.%20Support%20Vector%20Machines)
+  9. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/09.%20Hyperparameter%20Tuning)
+  10. [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/10.%20Clustering)
+  11. [Principal component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/11.%20PCA)
+  12. [Model Productionisation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/12.%20Model%20Productionisation)
+  13. [Models with Feature Engineering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/13.%20ML_Models%20with%20Feature%20Engineering)
   
 ## Module 5 - Case Studies
-  - [Car Price Prediction (Regression)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/1.%20Car%20Price%20Prediction)
-  - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
-  - [Spam Detection (NLP - Classification)]
-  - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/3.%20Adult%20Income%20Prediction)
-  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/Case%20Studies/4.%20web_app) -> To check live website [Click Here](http://18.217.168.12:8501/)
-  - [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Case%20Studies/6.%20Streamlit%20Heroku%20Deployment)
-  - [Deployment](http://18.217.168.12:8502/) -> To learn more [Click Here](http://18.217.168.12:8502/)
-  - **NOTE - Above two website links are down for some time
+  - [Car Price Prediction (Regression)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/1.%20Car%20Price%20Prediction)
+  - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
+  - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/3.%20Adult%20Income%20Prediction)
+  - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/4.%20web_app)
+  - [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/6.%20Streamlit%20Heroku%20Deployment)
+  - [Web Scrapping](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/8.%20Regex%20and%20Webscrapping)
 
 ## Module 6 - Deep Learning
-  - [Introduction to Deep Learning](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/17.%20Introduction%20to%20Deep%20Learning)
-  - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/18.%20Training%20Deep%20Neural%20Network)
-  - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/PYTHON_ML_DS/tree/master/19.%20Convolutional%20Neural%20Network)
+  - [Introduction to Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/01.%20Introduction%20to%20Deep%20Learning)
+  - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/02.%20Training%20Deep%20Neural%20Network)
+  - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network)
   - Recurrent Neural Network (Coming Soon)
   
   
