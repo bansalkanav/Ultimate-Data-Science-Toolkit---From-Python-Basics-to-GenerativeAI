@@ -31,11 +31,16 @@
   11. [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews)
  
 ## Module 2 - Python for Data Science
-  1. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/1.%20Numpy)
-  2. [Pandas](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/2.%20Pandas)
-  3. [Missing Value Treatment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/3.%20Missing%20Value%20Treatment)
-  4. [Exploratory Data Analysis (Matplotlib, Seaborn and Plotly)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/4.%20EDA)
-  5. [Case Study - Data Manipulation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/5.%20Pandas%20Adv%20Manipulation)
+  1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/01.%20Data%20Analytics%20Framework)
+  2. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/1.%20Numpy)
+  3. [Pandas for Beginners](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/03.%20Pandas%20for%20Beginners)
+  4. [Advance Pandas Operations](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/04.%20Advance%20Pandas%20Operations)
+  5. [Case Study - Pandas Manipulation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/05.%20Case%20Study%20-%20Pandas%20Manipulation)
+  6. [Missing Value Treatment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/06.%20Missing%20Value%20Treatment)
+  7. [Visuallization Basics - Matplotlib and Seaborn](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/07.%20Visuallization%20Basics%20-%20Matplotlib%20and%20Seaborn)
+  8. [Case Study - Covid_19_TimeSeries](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/08.%20Case%20Study%20-%20Covid_19_TimeSeries)
+  9. [Plotly and Express](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/09.%20Plotly%20and%20Express)
+  10. [Outliers - Coming Soon](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/10.%20Coming%20Soon)
   
 ## Module 3 - Statistics for Data Science
   1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/1.%20Normal%20Distributions)
