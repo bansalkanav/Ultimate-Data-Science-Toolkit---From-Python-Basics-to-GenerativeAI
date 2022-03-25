@@ -30,7 +30,7 @@
   10. [List Comprehension, Lambda, Filter, Map, Reduce](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/10.%20Adv%20Topics%20(List%20Comprehension%2C%20Lambda%2C%20Filter%2C%20Map%20and%20Reduce))
   11. [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews)
  
-## Module 2 - Python for Data Science
+## Module 2 - Python for Data Analysis
   1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/01.%20Data%20Analytics%20Framework)
   2. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/1.%20Numpy)
   3. [Pandas for Beginners](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/03.%20Pandas%20for%20Beginners)
@@ -42,7 +42,7 @@
   9. [Plotly and Express](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/09.%20Plotly%20and%20Express)
   10. [Outliers - Coming Soon](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/10.%20Coming%20Soon)
   
-## Module 3 - Statistics for Data Science
+## Module 3 - Statistics for Data Analysis
   1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/1.%20Normal%20Distributions)
   2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/2.%20Central%20Limit%20Theorem)
   3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/3.%20Hypothesis%20Testing)
