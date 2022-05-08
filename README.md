@@ -31,7 +31,7 @@
   11. [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews)
  
 ## Module 2 - Python for Data Analysis
-  1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/01.%20Data%20Analytics%20Framework)
+  1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/01.%20Data%20Analytics%20Framework)
   2. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/1.%20Numpy)
   3. [Pandas for Beginners](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/03.%20Pandas%20for%20Beginners)
   4. [Advance Pandas Operations](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Science/04.%20Advance%20Pandas%20Operations)
