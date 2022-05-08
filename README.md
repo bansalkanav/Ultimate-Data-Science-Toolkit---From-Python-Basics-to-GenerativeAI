@@ -43,10 +43,11 @@
   10. [Outliers - Coming Soon](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/10.%20Coming%20Soon)
   
 ## Module 3 - Statistics for Data Analysis
-  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/1.%20Normal%20Distributions)
-  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/2.%20Central%20Limit%20Theorem)
-  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/3.%20Hypothesis%20Testing)
-  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Science/4.%20Chi%20Square%20Test)
+  1. [Normal Distribution](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/1.%20Normal%20Distributions)
+  2. [Central Limit Theorem](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/2.%20Central%20Limit%20Theorem)
+  3. [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/3.%20Hypothesis%20Testing)
+  4. [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/4.%20Chi%20Square%20Test)
+  5. [Performing Statistical Test](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/5.%20Performing%20Statistical%20Test)
   
 ## Module 4 - Machine Learning
   1. [Data Preparation and Modelling with SKLearn](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/01.%20Data%20Preparation%20and%20Modelling%20with%20sklearn)
