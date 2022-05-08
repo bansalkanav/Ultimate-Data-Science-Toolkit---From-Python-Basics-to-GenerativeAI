@@ -59,11 +59,12 @@
   7. [Gradient Descent](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/07.%20Gradient%20Descent)
   8. [Decision Trees](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/08.%20Decision%20Trees)
   9. [Support Vector Machines](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/09.%20Support%20Vector%20Machines)
-  10. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/10.%20Hyperparameter%20Tuning)
-  11. [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/11.%20Clustering)
-  12. [Principal component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/12.%20PCA)
-  13. [Model Productionisation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/13.%20Model%20Productionisation)
-  14. [Models with Feature Engineering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/14.%20ML_Models%20with%20Feature%20Engineering)
+  10. [Model Productionisation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/10.%20Model%20Productionisation)
+  11. [Models with Feature Engineering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/11.%20ML_Models%20with%20Feature%20Engineering)
+  12. [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/12.%20Hyperparameter%20Tuning)
+  13. [Ensembles](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/13.%20Ensembles)
+  14. [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/14.%20Clustering)
+  15. [Principal component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/15.%20PCA)
   
 ## Module 5 - Case Studies
   - [Car Price Prediction (Regression)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/1.%20Car%20Price%20Prediction)
