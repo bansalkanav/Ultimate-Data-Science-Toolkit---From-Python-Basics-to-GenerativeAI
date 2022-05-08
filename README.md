@@ -32,7 +32,7 @@
  
 ## Module 2 - Python for Data Analysis
   1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/01.%20Data%20Analytics%20Framework)
-  2. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/1.%20Numpy)
+  2. [Numpy](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/02.%20Numpy)
   3. [Pandas for Beginners](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/03.%20Pandas%20for%20Beginners)
   4. [Advance Pandas Operations](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/04.%20Advance%20Pandas%20Operations)
   5. [Case Study - Pandas Manipulation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/05.%20Case%20Study%20-%20Pandas%20Manipulation)
