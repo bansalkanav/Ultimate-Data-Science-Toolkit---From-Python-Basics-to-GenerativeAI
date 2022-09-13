@@ -73,6 +73,7 @@
   - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
   - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/3.%20Adult%20Income%20Prediction)
   - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/4.%20web_app)
+  - [AWS Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/5.%20AWS%20Deployment)
   - [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/6.%20Streamlit%20Heroku%20Deployment)
   - [Web Scrapping](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/8.%20Regex%20and%20Webscrapping)
 
@@ -80,6 +81,7 @@
   - [Introduction to Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/01.%20Introduction%20to%20Deep%20Learning)
   - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/02.%20Training%20Deep%20Neural%20Network)
   - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network)
+  - [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models))
   - Recurrent Neural Network (Coming Soon)
   
   
