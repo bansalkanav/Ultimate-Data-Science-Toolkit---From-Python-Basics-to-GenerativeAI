@@ -73,6 +73,7 @@
   - [Airline Sentiment Analysis (NLP - Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/2.%20Airline%20Sentiment%20Analyser)
   - [Adult Income Prediction (Classification)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/3.%20Adult%20Income%20Prediction)
   - [Web App Development + Serialization and Deserialization](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/4.%20web_app)
+  - [AWS Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/5.%20AWS%20Deployment)
   - [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/6.%20Streamlit%20Heroku%20Deployment)
   - [Web Scrapping](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20Case%20Studies/8.%20Regex%20and%20Webscrapping)
 
