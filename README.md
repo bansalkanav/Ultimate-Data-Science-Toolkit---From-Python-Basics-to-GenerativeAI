@@ -81,6 +81,7 @@
   - [Introduction to Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/01.%20Introduction%20to%20Deep%20Learning)
   - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/02.%20Training%20Deep%20Neural%20Network)
   - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network)
+  - [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models))
   - Recurrent Neural Network (Coming Soon)
   
   
