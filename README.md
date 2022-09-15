@@ -63,16 +63,15 @@
     - [Models with Feature Engineering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/04.%20Supervised%20ML%20Algorithms/07.%20ML%20Models%20with%20Feature%20Engineering)  
     - [Hyperparameter Tuning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/04.%20Supervised%20ML%20Algorithms/08.%20Hyperparameter%20Tuning)  
     - [Ensembles](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/04.%20Supervised%20ML%20Algorithms/09.%20Ensembles)  
-  5. [Model Productionisation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Model%20Productionisation)
-  6. [Unsupervised ML Algorithms](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/06.%20Unsupervised%20ML%20Algorithms)  
-    - [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/06.%20Unsupervised%20ML%20Algorithms/01.%20Clustering)  
-    - [Principal Component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/06.%20Unsupervised%20ML%20Algorithms/02.%20PCA)
+  5. [Unsupervised ML Algorithms](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms)  
+    - [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms/01.%20Clustering)  
+    - [Principal Component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms/02.%20PCA)
   
 ## Module 5 - MLOPs
-  - [Model Serialization and Deserialization](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/1.%20Model%20Serialization%20and%20Deserialization)
-  - [Application Integration](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/2.%20Application%20Integration)
-  - [MLFlow - Experiment Tracking and Model Management](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/3.%20Experiment%20Tracking%20and%20Model%20Management)
-  - [Prefect - Orchestrate ML Pipeline](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/4.%20Orchestrate%20ML%20Pipeline)
+  1. [Model Serialization and Deserialization](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/1.%20Model%20Serialization%20and%20Deserialization)
+  2. [Application Integration](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/2.%20Application%20Integration)
+  3. [MLFlow - Experiment Tracking and Model Management](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/3.%20Experiment%20Tracking%20and%20Model%20Management)
+  4. [Prefect - Orchestrate ML Pipeline](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/4.%20Orchestrate%20ML%20Pipeline)
   
 ## Module 6 - Case Studies
   - [Car Price Prediction (Regression)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Case%20Studies/1.%20Car%20Price%20Prediction)
@@ -85,10 +84,10 @@
   - [Web Scrapping](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Case%20Studies/8.%20Regex%20and%20Webscrapping)
 
 ## Module 7 - Deep Learning
-  - [Introduction to Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/01.%20Introduction%20to%20Deep%20Learning)
-  - [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/02.%20Training%20Deep%20Neural%20Network)
-  - [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network)
-  - [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models))
+  1. [Introduction to Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/01.%20Introduction%20to%20Deep%20Learning)
+  2. [Training a Deep Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/02.%20Training%20Deep%20Neural%20Network)
+  3. [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network)
+  4. [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models))
   - Recurrent Neural Network (Coming Soon)
   
   
