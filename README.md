@@ -2,6 +2,8 @@
 
 ### Star this repo if you find it useful :star:
 
+***
+
 <div align="center">
 
 <a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
