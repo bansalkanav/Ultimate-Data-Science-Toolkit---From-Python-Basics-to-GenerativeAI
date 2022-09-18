@@ -29,6 +29,20 @@
   9. [Databases](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/09.%20Databases)
   10. [List Comprehension, Lambda, Filter, Map, Reduce](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/10.%20Adv%20Topics%20(List%20Comprehension%2C%20Lambda%2C%20Filter%2C%20Map%20and%20Reduce))
   11. [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews)
+  
+| Topic Name | What's Covered |
+| :---: | :---: |
+| [Intro to Python](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/01.%20Intro%20to%20Python) | What's Covered |
+| [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/02.%20Data%20Structures) | What's Covered |
+| [Control Statements (Decision and Loops)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/03.%20Control%20Statements) | What's Covered |
+| [Functions and Modules](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/04.%20Functions%20and%20Modules) | What's Covered |
+| [Object Oriented Programming](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/05.%20Object%20Oriented%20Programming) | What's Covered |
+| [Exception Handling](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/06.%20Exception%20Handling) | What's Covered |
+| [File Handling](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/07.%20File%20Handling) | What's Covered |
+| [Web API](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/08.%20Web%20API) | What's Covered |
+| [Databases](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/09.%20Databases) | What's Covered |
+| [List Comprehension, Lambda, Filter, Map, Reduce](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/10.%20Adv%20Topics%20(List%20Comprehension%2C%20Lambda%2C%20Filter%2C%20Map%20and%20Reduce)) | What's Covered |
+| [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews) | What's Covered |
  
 ## Module 2 - Python for Data Analysis
   1. [Data Analytics Framework](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/01.%20Data%20Analytics%20Framework)
