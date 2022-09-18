@@ -21,7 +21,7 @@
   
 | Topic Name | What's Covered |
 | :---: | :---: |
-| [Intro to Python](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/01.%20Intro%20to%20Python) | What's Covered |
+| [Intro to Python](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/01.%20Intro%20to%20Python) | Applications and Features of Python, Hello World Program, **Identifiers** and Rules to define identifiers, **Data Types** (numeric, boolean, strings, list, tuple, set and dict), Comments, Input and Output, **Operators** - Arithmatic, Reltaional, Equality, Logical, Bitwise, Assignment, Ternary, Identity and Membership |
 | [Data Structures in Python (List, Tuple, Set, Dictionary)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/02.%20Data%20Structures) | What's Covered |
 | [Control Statements (Decision and Loops)](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/03.%20Control%20Statements) | What's Covered |
 | [Functions and Modules](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/04.%20Functions%20and%20Modules) | What's Covered |
