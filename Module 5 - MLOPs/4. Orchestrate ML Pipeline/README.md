@@ -16,8 +16,10 @@ Enter the Virtual Environment using below mentioned command:
 
 Now install Prefect:
 > `$ pip install prefect`  
+
 OR  if you have Prefect 1, upgrade to Prefect 2 using this command:  
 > `$ pip install -U prefect`  
+
 OR to install a specific version:  
 > `$ pip install prefect==2.4`  
 
