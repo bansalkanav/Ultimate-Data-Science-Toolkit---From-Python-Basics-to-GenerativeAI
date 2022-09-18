@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import GridSearchCV
+import mlflow
 
 
 def load_data(path: str, unwanted_cols: List) -> pd.DataFrame:
@@ -11,19 +14,25 @@ def load_data(path: str, unwanted_cols: List) -> pd.DataFrame:
     return data
 
 
-def get_classes(target_data: np.array) -> List[str]:
+def get_classes(target_data: pd.Series) -> List[str]:
     return list(target_data.unique())
 
 
-def rescale_numerical_columns(data: pd.DataFrame) -> pd.DataFrame:
+def get_scaler(data: pd.DataFrame) -> Any:
     # scaling the numerical features
     scaler = StandardScaler()
+    scaler.fit(data)
+    
+    return scaler
 
+
+def rescale_data(data: pd.DataFrame, scaler: Any) -> pd.DataFrame:    
+    # scaling the numerical features
     # column names are (annoyingly) lost after Scaling
     # (i.e. the dataframe is converted to a numpy ndarray)
-    data_rescaled = pd.DataFrame(scaler.fit_transform(data), 
-                                        columns = data.columns, 
-                                        index = data.index)
+    data_rescaled = pd.DataFrame(scaler.transform(data), 
+                                columns = data.columns, 
+                                index = data.index)
 
     return data_rescaled
 
@@ -35,26 +44,62 @@ def split_data(input_: pd.DataFrame, output_: pd.Series, test_data_ratio: float)
     return {'X_TRAIN': X_tr, 'Y_TRAIN': y_tr, 'X_TEST': X_te, 'Y_TEST': y_te}
 
 
-def main():
+def find_best_model(X_train: pd.DataFrame, y_train: pd.Series, estimator: Any, parameters: List) -> Any:
+    # Enabling automatic MLflow logging for scikit-learn runs
+    mlflow.sklearn.autolog(max_tuning_runs=None)
+
+    with mlflow.start_run():
+        tuned_parameters = parameters
+        
+        clf = GridSearchCV(
+            estimator=estimator, 
+            param_grid=tuned_parameters, 
+            scoring='accuracy',
+            cv=5,
+            return_train_score=True,
+            verbose=1
+        )
+        clf.fit(X_train, y_train)
+        
+        # Disabling autologging
+        mlflow.sklearn.autolog(disable=True)
+        
+        return clf
+
+
+# Workflow
+def main(path):
     # Define Parameters
     TARGET_COL = 'Species'
     UNWANTED_COLS = ['Id']
     TEST_DATA_RATIO = 0.2
-    DATA_PATH = './data/iris.csv'
+    DATA_PATH = path
 
-    # Run Functions
+    # Load the Data
     dataframe = load_data(path=DATA_PATH, unwanted_cols=UNWANTED_COLS)
 
-    # Workflow
+    # Identify Target Variable
     target_data = dataframe[TARGET_COL]
     input_data = dataframe.drop([TARGET_COL], axis=1)
 
-    numerical_data = rescale_numerical_columns(data=input_data)
-     
+    # Get Unique Classes
     classes = get_classes(target_data=target_data)
-
-    train_test_dict = split_data(input_=numerical_data, output_=target_data, test_data_ratio=TEST_DATA_RATIO)
+    
+    # Split the Data into Train and Test
+    train_test_dict = split_data(input_=input_data, output_=target_data, test_data_ratio=TEST_DATA_RATIO)
+    
+    # Rescaling Train and Test Data
+    scaler = get_scaler(train_test_dict['X_TRAIN'])
+    train_test_dict['X_TRAIN'] = rescale_data(data=train_test_dict['X_TRAIN'], scaler=scaler)
+    train_test_dict['X_TEST'] = rescale_data(data=train_test_dict['X_TEST'], scaler=scaler)
+    
+    # Model Training
+    ESTIMATOR = KNeighborsClassifier()
+    HYPERPARAMETERS = [{'n_neighbors':[i for i in range(1, 51)], 'p':[1, 2]}]
+    classifier = find_best_model(train_test_dict['X_TRAIN'], train_test_dict['Y_TRAIN'], ESTIMATOR, HYPERPARAMETERS)
+    print(classifier.best_params_)
+    print(classifier.score(train_test_dict['X_TEST'], train_test_dict['Y_TEST']))
     
     
 # Run the main function
-main()
+main(path='./data/iris.csv')
