@@ -1,4 +1,4 @@
-# Managing Machine Learning Work Flows using Prefect 2.0
+# Managing Machine Learning Workflows using Prefect 2.0
 
 ## In this repository, you will find three versions of app.
 
