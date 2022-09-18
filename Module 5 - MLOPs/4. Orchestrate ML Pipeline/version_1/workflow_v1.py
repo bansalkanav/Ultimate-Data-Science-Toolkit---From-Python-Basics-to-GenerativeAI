@@ -1,6 +1,5 @@
 from typing import Any, Dict, List
 import pandas as pd
-import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
@@ -33,14 +32,11 @@ def rescale_data(data: pd.DataFrame, scaler: Any) -> pd.DataFrame:
     data_rescaled = pd.DataFrame(scaler.transform(data), 
                                 columns = data.columns, 
                                 index = data.index)
-
     return data_rescaled
 
 
 def split_data(input_: pd.DataFrame, output_: pd.Series, test_data_ratio: float) -> Dict[str, Any]:
-       
     X_tr, X_te, y_tr, y_te = train_test_split(input_, output_, test_size=test_data_ratio, random_state=0)
-    
     return {'X_TRAIN': X_tr, 'Y_TRAIN': y_tr, 'X_TEST': X_te, 'Y_TEST': y_te}
 
 
@@ -48,12 +44,10 @@ def find_best_model(X_train: pd.DataFrame, y_train: pd.Series, estimator: Any, p
     # Enabling automatic MLflow logging for scikit-learn runs
     mlflow.sklearn.autolog(max_tuning_runs=None)
 
-    with mlflow.start_run():
-        tuned_parameters = parameters
-        
+    with mlflow.start_run():        
         clf = GridSearchCV(
             estimator=estimator, 
-            param_grid=tuned_parameters, 
+            param_grid=parameters, 
             scoring='accuracy',
             cv=5,
             return_train_score=True,
@@ -68,7 +62,7 @@ def find_best_model(X_train: pd.DataFrame, y_train: pd.Series, estimator: Any, p
 
 
 # Workflow
-def main(path):
+def main(path: str):
     # Define Parameters
     TARGET_COL = 'Species'
     UNWANTED_COLS = ['Id']
