@@ -28,3 +28,11 @@ OR to install a specific version:
 Check the prefect version:
 > `$ prefect version`
 
+***
+
+### Why Prefect?
+- Python based open source tool  
+- Manage ML Pipelines  
+- Schedule and Monitor the flow  
+- Gives observability into failures  
+- Native dask integration for scaling (Dask is used for parallel computing)
