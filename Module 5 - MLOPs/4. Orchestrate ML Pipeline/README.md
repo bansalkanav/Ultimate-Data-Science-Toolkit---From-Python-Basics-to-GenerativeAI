@@ -1,10 +1,11 @@
 # Managing Machine Learning Workflows using Prefect 2.0
 
-## In this repository, you will find three versions of app.
+### In this repository, you will find three versions of app
 
-#### version_1 -> Basic Code without workflow management
-#### version_2 -> Code with Prefect Workflow - Defining the workflow and running them
-#### version_3 -> Dealing with the variables and monitoring the workflow with Prefect Cloud
+> `version_1` - Breaking the Jupyter Notebook to Python Script (Basic Code without workflow management)  
+> `version_2` - Code with Prefect Workflow - Defining the workflow and running them  
+> `version_3` - Dealing with the variables and monitoring the workflow with Prefect Cloud
+
 
 ### Why Prefect?
 - Python based open source tool  
@@ -40,5 +41,35 @@ Check the prefect version:
 
 ### Running Prefect Dashboard
 
-> `$ prefect orion start`
+> `$ prefect orion start`  
 
+```
+___ ___ ___ ___ ___ ___ _____    ___  ___ ___ ___  _  _
+| _ \ _ \ __| __| __/ __|_   _|  / _ \| _ \_ _/ _ \| \| |
+|  _/   / _|| _|| _| (__  | |   | (_) |   /| | (_) | .` |
+|_| |_|_\___|_| |___\___| |_|    \___/|_|_\___\___/|_|\_|
+Configure Prefect to communicate with the server with:
+    prefect config set PREFECT_API_URL=http://127.0.0.1:4200/api
+View the API reference documentation at http://127.0.0.1:4200/docs
+Check out the dashboard at http://127.0.0.1:4200/
+
+```
+
+**Note - In Windows OS, if your path contains spaces, it will generate error (as mentioned below) when you try to run prefect orion.**
+
+```
+___ ___ ___ ___ ___ ___ _____    ___  ___ ___ ___  _  _
+| _ \ _ \ __| __| __/ __|_   _|  / _ \| _ \_ _/ _ \| \| |
+|  _/   / _|| _|| _| (__  | |   | (_) |   /| | (_) | .` |
+|_| |_|_\___|_| |___\___| |_|    \___/|_|_\___\___/|_|\_|
+Configure Prefect to communicate with the server with:
+    prefect config set PREFECT_API_URL=http://127.0.0.1:4200/api
+View the API reference documentation at http://127.0.0.1:4200/docs
+Check out the dashboard at http://127.0.0.1:4200/
+Usage: uvicorn [OPTIONS] APP
+
+Try 'uvicorn --help' for help.
+
+Error: Got unexpected extra argument (prefect.orion.api.server:create_app)
+Orion stopped!
+```
