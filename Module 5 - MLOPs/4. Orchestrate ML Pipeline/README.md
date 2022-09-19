@@ -2,11 +2,19 @@
 
 ## In this repository, you will find three versions of app.
 
-### version_1 -> Basic Code without workflow management
-### version_2 -> Code with Prefect Workflow - Defining the workflow and running them
-### version_3 -> Dealing with the variables and monitoring the workflow with Prefect Cloud
+#### version_1 -> Basic Code without workflow management
+#### version_2 -> Code with Prefect Workflow - Defining the workflow and running them
+#### version_3 -> Dealing with the variables and monitoring the workflow with Prefect Cloud
+
+### Why Prefect?
+- Python based open source tool  
+- Manage ML Pipelines  
+- Schedule and Monitor the flow  
+- Gives observability into failures  
+- Native dask integration for scaling (Dask is used for parallel computing)
 
 ***
+
 ### Creating and activating a Virtual Environment
 In order to install prefect, create a virtual environment:
 > `$ python -m venv mlops`  
@@ -30,9 +38,7 @@ Check the prefect version:
 
 ***
 
-### Why Prefect?
-- Python based open source tool  
-- Manage ML Pipelines  
-- Schedule and Monitor the flow  
-- Gives observability into failures  
-- Native dask integration for scaling (Dask is used for parallel computing)
+### Running Prefect Dashboard
+
+> `$ prefect orion start`
+
