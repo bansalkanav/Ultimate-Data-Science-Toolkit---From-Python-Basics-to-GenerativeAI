@@ -21,7 +21,8 @@
 <a href="https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/bansalkanav/Machine_Learning_and_Deep_Learning?color=0059b3"></a> 
 </div>
 
-## Module 1 - Python Programming
+<details> 
+<summary> <h2>Module 1 - Python Programming </h2> </summary>
   
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -36,8 +37,10 @@
 | [Databases](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/09.%20Databases) | Introduction to Databases, **SQLite3** - Connecting Python with SQLite3, Performing CRUD Opertations, **MySQL** - Connecting Python with MySQL, Performing CRUD Opertations, **MongoDB** - Connecting Python with MongoDB, Performing CRUD Opertations, **Object Relation Mapping** - SQLAlchemy ORM, CRUD operations and Complex DB operations |
 | [List Comprehension, Lambda, Filter, Map, Reduce](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/10.%20Adv%20Topics%20(List%20Comprehension%2C%20Lambda%2C%20Filter%2C%20Map%20and%20Reduce)) | List Comprehension, Anonymous Functions, Filter, Map, Reduce, Function Aliasing |
 | [Problem Solving for Interviews](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%201%20-%20Python%20Programming/11.%20Problem%20Solving%20for%20Interviews) | Swapping two numbers, Factorial of a number, Prime Number, Fibbonnacci Sequence, Armstrong Number, Palindrome Number, etc |
- 
-## Module 2 - Python for Data Analysis
+</details>
+
+<details> 
+<summary> <h2>Module 2 - Python for Data Analysis </h2> </summary>
 
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -51,8 +54,10 @@
 | [Case Study - Covid_19_TimeSeries](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/08.%20Case%20Study%20-%20Covid_19_TimeSeries) | What's Covered |
 | [Plotly and Express](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/09.%20Plotly%20and%20Express) | What's Covered |
 | [Outliers - Coming Soon](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%202%20-%20Python%20for%20Data%20Analysis/10.%20Coming%20Soon) | What's Covered |
+</details>
   
-## Module 3 - Statistics for Data Analysis
+<details> 
+<summary> <h2>Module 3 - Statistics for Data Analysis </h2> </summary>
 
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -61,8 +66,11 @@
 | [Hypothesis Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/3.%20Hypothesis%20Testing) | What's Covered |
 | [Chi Square Testing](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/4.%20Chi%20Square%20Test) | What's Covered |
 | [Performing Statistical Test](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%203%20-%20Statistics%20for%20Data%20Analysis/5.%20Performing%20Statistical%20Test) | What's Covered |
-  
-## Module 4 - Machine Learning
+</details>
+
+<details> 
+<summary> <h2>Module 4 - Machine Learning </h2> </summary>
+
   1. [Data Preparation and Modelling with SKLearn](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/01.%20Data%20Preparation%20and%20Modelling%20with%20sklearn)
   2. [Working with Text Data](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/02.%20Working%20with%20Text%20Data)
   3. [Working with Image Data](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/03.%20Working%20with%20Image%20Data)
@@ -79,8 +87,10 @@
   5. [Unsupervised ML Algorithms](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms)  
     - [Clustering](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms/01.%20Clustering)  
     - [Principal Component Analysis](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%204%20-%20Machine%20Learning/05.%20Unsupervised%20ML%20Algorithms/02.%20PCA)
-  
-## Module 5 - MLOPs
+</details>
+
+<details> 
+<summary> <h2>Module 5 - MLOPs </h2> </summary>
 
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -88,8 +98,10 @@
 | [Application Integration](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/2.%20Application%20Integration) | What's Covered |
 | [MLFlow - Experiment Tracking and Model Management](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/3.%20Experiment%20Tracking%20and%20Model%20Management) | What's Covered |
 | [Prefect - Orchestrate ML Pipeline](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%205%20-%20MLOPs/4.%20Orchestrate%20ML%20Pipeline) | What's Covered |
-  
-## Module 6 - Case Studies
+</details>
+
+<details> 
+<summary> <h2>Module 6 - Case Studies </h2> </summary>
 
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -101,8 +113,10 @@
 | [Streamlit Heroku Deployment](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Case%20Studies/6.%20Streamlit%20Heroku%20Deployment) | What's Covered |
 | [Customer Segmentation](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Case%20Studies/7.%20Customer%20Segmentation) | What's Covered |
 | [Web Scrapping](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%206%20-%20Case%20Studies/8.%20Regex%20and%20Webscrapping) | What's Covered |
+</details>
 
-## Module 7 - Deep Learning
+<details> 
+<summary> <h2>Module 7 - Deep Learning </h2> </summary>
 
 | Topic Name | What's Covered |
 | :---: | :---: |
@@ -111,5 +125,4 @@
 | [Convolutional Neural Network + TensorFlow.Keras](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/03.%20Convolutional%20Neural%20Network) | What's Covered |
 | [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models)) | What's Covered |
 | Recurrent Neural Network (Coming Soon) | What's Covered |
-  
-  
+</details>
