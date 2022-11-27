@@ -29,7 +29,7 @@ string_var = 'ThatAIGuy'
 
 ### Lists
 
-````python
+```python
 list_var = ['Checkout', 'ThatAIGuy', '.', 'com']
 ```
 > 1. Sequence Data Structure.
@@ -41,7 +41,7 @@ list_var = ['Checkout', 'ThatAIGuy', '.', 'com']
 
 ### Tuples
 
-````python
+```python
 tuple_var = ('Checkout', 'ThatAIGuy', '.', 'com')
 ```
 > 1. Similar to list but immutable.
@@ -50,7 +50,7 @@ tuple_var = ('Checkout', 'ThatAIGuy', '.', 'com')
 
 ### Set
 
-````python
+```python
 set_var = {1, 11, 0, 1, 2}
 ```
 > 1. Unordered collection of items i.e. they can't be indexed
@@ -60,7 +60,7 @@ set_var = {1, 11, 0, 1, 2}
 
 ### Dictionary
 
-````python
+```python
 dict_var = {'key_1': 'val_1', 'key_2': 'val_2'}
 ```
 > 1. Unordered collection of items i.e. can't be indexed
