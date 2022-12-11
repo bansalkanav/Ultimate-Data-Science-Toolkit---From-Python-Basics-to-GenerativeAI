@@ -1,3 +1,3 @@
 # Naive Bayes Algorithm
 
-![naive_bayes](imgs/notes_1.png)
+![naive_bayes](imgs/notes_1.PNG)
