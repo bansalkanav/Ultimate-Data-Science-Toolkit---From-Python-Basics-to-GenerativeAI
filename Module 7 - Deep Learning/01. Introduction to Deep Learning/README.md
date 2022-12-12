@@ -80,17 +80,17 @@ $$ O = f(\sum_{i=1}^{d} w_i*x_i) $$
 
 ---
 
-**Activation Function**
+**Activation Function**  
 $$ f_{ij} \rightarrow O_{ij} \\
 i: Layer Number \\
 j: Neuron Number $$
 
-**Weights**
+**Weights**  
 $$ W_{ij}^{k} \\
 i: From \ j: To \\
 k: To Layer Number $$
 
-**Weight Matrix:**
+**Weight Matrix:**  
 $ W^1 $
 
 \begin{pmatrix}
