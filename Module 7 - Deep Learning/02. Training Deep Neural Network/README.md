@@ -4,6 +4,16 @@
 **Training a network means finding the best edge weights.**
 This is achieved by feed forwarding a data point and then back propogating using chain rule of derivation. While back propogating update the edge weights.
 
+## Regularization
+Neural Networks have a large architecture (i.e. weights and biases) hence they have a tendency to overfit easily. We can apply regularization to get rid of this problem.
+1. Add a regularization term to the loss function.
+	- Lasso Regularization
+	- Ridge Regularization
+2. Dropouts
+	- Randomly remove some interconnections.
+	- Never apply dropout on output layer.
+3. BatchNormalization
+
 ## How to train a Deep Neural Network?
 1. Preprocess the data. 
 2. Input Layer - Depends on the number of features in input data.
@@ -58,10 +68,10 @@ This is achieved by feed forwarding a data point and then back propogating using
 		model.compile(optimizer='adam', loss='mse', metrics=['mae'])
 		```
 3. Fit the model.
-```python
-model.fit(X_train, y_train, batch_size=128, epochs=10)
-```
+	```python
+	model.fit(X_train, y_train, batch_size=128, epochs=10)
+	```
 4. Predict and evaluate.
-```python
-model.evaluate(X_test, y_test, verbose=0)
-```
+	```python
+	model.evaluate(X_test, y_test, verbose=0)
+	```
