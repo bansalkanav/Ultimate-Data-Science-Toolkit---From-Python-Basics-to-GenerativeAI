@@ -83,15 +83,15 @@ $$ O = f(\sum_{i=1}^{d} w_i*x_i) $$
 **Activation Function**  
 $$ f_{ij} \rightarrow O_{ij} \\
 i: Layer Number \\
-j: Neuron Number $$
+j: Neuron Number $$  
 
 **Weights**  
 $$ W_{ij}^{k} \\
 i: From \ j: To \\
-k: To Layer Number $$
+k: To Layer Number $$  
 
 **Weight Matrix:**  
-$ W^1 $
+$ W^1 $  
 
 \begin{pmatrix}
 w_{11} & w_{12} & w_{13}\\
@@ -104,12 +104,11 @@ w_{41} & w_{42} & w_{43}\\
 
 1. Randomly initialize $ W_{ij}^{k} $.
 2. **Forward Propogation** - Feed forward ith datapoint.
-3. Computer loss for ith data point $ L(y_i', y_i) $. 
+3. Computer loss for ith data point.  
+$$ L(y_i', y_i) $$  
 4. **Backward Propogation** - Compute the derivatives using chain rule of derivation and memoization. 
-5. Update the weights from end of the network to start.
-$$
-(W_{ij}^{k})_{new} = (W_{ij}^{k})_{old} - r*\frac{\partial L}{\partial W}
-$$
+5. Update the weights from end of the network to start.  
+$$ (W_{ij}^{k})_{new} = (W_{ij}^{k})_{old} - r*\frac{\partial L}{\partial W} $$  
 6. Repeat step 2 to 5 until convergence.
 
 ---
