@@ -60,6 +60,13 @@ Neural Networks have a large architecture (i.e. weights and biases) hence they h
 		model_relu.add(Dense(512, input_dim=784, activation='relu', kernel_initializer='he_normal'))
 		model_relu.add(BatchNormalization())
 		model_relu.add(Dropout(0.3))
+		
+		# FC - 128
+		model_relu.add(Dense(128, activation='relu', kernel_initializer='he_normal'))
+		model_relu.add(BatchNormalization())
+		model_relu.add(Dropout(0.3))
+
+		# FC - 10
 		model.add(Dense(10, activation='softmax'))
 		```
 	- For Regression
