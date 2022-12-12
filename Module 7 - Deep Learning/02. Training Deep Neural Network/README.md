@@ -20,20 +20,20 @@ This is achieved by feed forwarding a data point and then back propogating using
 		- Add Dropout with dropout rate.
 4. Output Layer
 	- For Classification
-		- # of Neurons = # of classes
+		- Number of Neurons = Number of classes
 		- Activation - Softmax Activation
 		- Loss - Categorical Cross Entropy
 		- Metric - Accuracy
 		- Optimizer - Adam
 	- For Regression
-		- # of Neurons = 1
+		- Number of Neurons = 1
 		- Activation - Linear Activation
 		- Loss - Mean Squared Error
 		- Metric - MSE, MAE, etc
 		- Optimizer - Adam
 5. Hyperparameters
-	- # of layers
-	- # of neurons in each layers
+	- Number of layers
+	- Number of neurons in each layers
 	- Dropout rate
 	
 ## Keras Implementation
