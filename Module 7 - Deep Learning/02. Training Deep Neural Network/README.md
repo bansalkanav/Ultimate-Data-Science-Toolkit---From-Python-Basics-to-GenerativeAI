@@ -52,6 +52,15 @@ Neural Networks have a large architecture (i.e. weights and biases) hence they h
 		```python
 		model = Sequential()
 		model.add(Dense(10, input_dim=784, activation='softmax'))
+		```  
+	- For Classification - Another Example	
+		```python
+		model = Sequential()
+		# FC - 512
+		model_relu.add(Dense(512, input_dim=784, activation='relu', kernel_initializer='he_normal'))
+		model_relu.add(BatchNormalization())
+		model_relu.add(Dropout(0.3))
+		model.add(Dense(10, activation='softmax'))
 		```
 	- For Regression
 		```python
