@@ -45,7 +45,7 @@ $$ O = f(\sum_{i=1}^{d} w_i*x_i) $$
 ## Specifications of Neural Network
 
 1. Topology (i.e. Structure) - Nodes(i.e. Neurons) and Edges(i.e. Interconnections)
-2. Input Layer (Depends on the number of features), Hidden Layers and Output Layer (For regression 1 neuron and for classification number of neurons is equal to number of classes)
+2. Input Layer (Depends on the number of features), Hidden Layers and Output Layer (For regression - One neuron and for classification - Number of neurons is equal to number of classes)
 3. Weights and Bias
 4. Activation Functions
 
@@ -81,21 +81,18 @@ $$ O = f(\sum_{i=1}^{d} w_i*x_i) $$
 ---
 
 **Activation Function**
-$$ 
-f_{ij} \rightarrow O_{ij} \\
+$$ f_{ij} \rightarrow O_{ij} \\
 i: Layer Number \\
-j: Neuron Number
-$$
+j: Neuron Number $$
 
 **Weights**
-$$
-W_{ij}^{k} \\
+$$ W_{ij}^{k} \\
 i: From \ j: To \\
-k: To Layer Number
-$$
+k: To Layer Number $$
 
 **Weight Matrix:**
 $ W^1 $
+
 \begin{pmatrix}
 w_{11} & w_{12} & w_{13}\\
 w_{21} & w_{22} & w_{23}\\
