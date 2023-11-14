@@ -3,11 +3,26 @@
 ## Steps for a Machine Learning Project
 1. Identify input(X) and output(y) features.
 2. Identify the Data Preprocessing Techniques.
-	- Numerical Data Transformation Techniques - Standardization and Normalization
-	- Categorical Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding
-	- Text Data Transformation Techniques - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)
-	- Image Data Transformation Techniques - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers
-	- Audio Data Transformation Techniques - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)
+	- Identify the data preprocessing techniques by analysing the input variables (i.e. X).
+ 	- For Numerical Data
+  		- Data Cleaning Steps - 
+		- Data Transformation Techniques - Standardization and Normalization
+	- For Categorical Data
+  		- Data Cleaning Steps - 
+   		- Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding
+	- For Text Data
+   		- Data Cleaning Steps -
+   			- Removing Special Characters, Punctuations, etc..
+    			- Converting to lower cases
+    			- Removing Stop Words
+      			- Lemmatization / Stemming
+		- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)
+	- For Image Data
+  		- Data Cleaning Steps - 
+ 		- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers
+	- Audio Data
+  		- Data Cleaning Steps - 
+ 		- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)
 3. Identify the supervised ML Task.
 	- Identify the task by analysing the target variable (i.e. y).
 	- For Classification:
