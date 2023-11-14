@@ -2,49 +2,26 @@
 
 ## Steps for a Machine Learning Project
 1. Identify input(X) and output(y) features.
-2. Separate the data into X and y.
-	- Identify the task by analysing the target variable.
-	- For Classification task:
+2. Identify the Data Preprocessing Techniques.
+	- Numerical Data Transformation Techniques - Standardization and Normalization
+	- Categorical Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding
+	- Text Data Transformation Techniques - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)
+	- Image Data Transformation Techniques - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers
+	- Audio Data Transformation Techniques - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)
+3. Identify the supervised ML Task.
+	- Identify the task by analysing the target variable (i.e. y).
+	- For Classification:
 		- Algorithm - Logistic Regression, SVC, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, GBDTClassifier, etc
 		- Evaluation Metric - Accuracy, Confusion Metric, Precision, Recall, ROC AUC, Log Loss, etc
-	- For Regression task:
+	- For Regression:
 		- Algorithm - Linear Regression, SVC, KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, GBDTRegressor, etc
 		- Evaluation Metric - Mean Square Error, Root Mean Square Error, Mean Absolute Error, R Square, Adjusted R Square, etc
-3. Split the data(X, y) into training(X_train, y_train) and testing data(X_test, y_test).
-4. Apply Data Preprocessing on X_train. Get X_train_transformed.
-5. Apply Data Preprocessing on X_test. Get X_test_transformed.
-7. Choose an appropriate ML Algorithm. Train a machine learning model using training data (X_train_transformed, y_train).
-8. Predict using testing data (X_test_transformed) and get the predictions (y_test_pred).
-9. Choose an Evaluation Metric. Using the actual values (y_test) and predictions from model (y_test_pred), get the score.
-
-## Data Preprocessing (Data Cleaning + Data Transformation)
-1. Numerical Data Transformation Techniques
-	- Standardization
-	- Normalization
-2. Categorical Data Transformation Techniques
-	- One Hot Encoding or Dummy Encoding
-	- Label Encoding
-3. Text Data Transformation Techniques
-	- Bag of Words
-	- Term Frequency Inverse Document Frequency (TF IDF)
-	- Word2Vec
-	- GloVe
-	- FastText
-	- Embeddings from Language Models (ELMo)
-	- Bidirectional Encoder Representation from Transformers (BERT)
-4. Image Data Transformation Techniques
-	- Flattening
-	- Convolutional Neural Network + Flattening
-		- VGGNet
-		- AlexNet
-		- Inception Module (GoogleNet)
-		- ResNet
-		- MobileNet
-		- EfficientNet
-	- VisionTransformers
-5. Audio Data Transformation Techniques
-	- Mel Scaled Filter Bank
-	- Mel Frequency Cepstral Coefficients (MFCC)
+4. Split the data(X, y) into training(X_train, y_train) and testing data(X_test, y_test).
+5. Apply Data Preprocessing on X_train (which was identified in step-2). Get X_train_transformed.
+6. Choose an appropriate ML Algorithm (which was identified in step-3). Train a machine learning model using training data (X_train_transformed, y_train).
+7. Apply Data Preprocessing on X_test. Get X_test_transformed.
+8. Predict using the ML model on testing data (X_test_transformed) and get the predictions (y_test_pred).
+9. Choose an appropriate Evaluation Metric (which was identified in step-3). Using the actual values (y_test) and predictions from model (y_test_pred), get the model's score.
 
 ## SKLearn Implementation
 1. Installing sklearn.
@@ -73,8 +50,8 @@
 	# column names are (annoyingly) lost after Scaling
 	# (i.e. the dataframe is converted to a numpy ndarray)
 	X_train_transformed = pd.DataFrame(scaler.fit_transform(X_train), 
-										columns = X_train.columns, 
-										index = X_train.index)
+					columns = X_train.columns, 
+					index = X_train.index)
 
 	X_train_transformed.head()
 	```
@@ -89,8 +66,8 @@
 	# column names are (annoyingly) lost after Scaling
 	# (i.e. the dataframe is converted to a numpy ndarray)
 	X_train_transformed = pd.DataFrame(scaler.fit_transform(X_train), 
-										columns = X_train.columns, 
-										index = X_train.index)
+					columns = X_train.columns, 
+					index = X_train.index)
 
 	X_train_transformed.head()
 	```
@@ -105,8 +82,8 @@
 	# column names are (annoyingly) lost after OneHotEncoding
 	# (i.e. the dataframe is converted to a numpy ndarray)
 	X_train_transformed = pd.DataFrame(encoder.fit_transform(X_train), 
-								   columns=encoder.get_feature_names_out(X_train.columns), 
-								   index = X_train.index)
+					columns=encoder.get_feature_names_out(X_train.columns), 
+					index = X_train.index)
 
 	X_train_transformed.head()
 	```
