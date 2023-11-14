@@ -5,17 +5,17 @@
 2. Identify the Data Preprocessing Techniques.
 	- Identify the data preprocessing techniques by analysing the input variables (i.e. X).
  	- For Numerical Data
-  		- Data Cleaning Steps - 
+  		- Data Cleaning Steps - Outliers and Missing Values
 		- Data Transformation Techniques - Standardization and Normalization
 	- For Categorical Data
-  		- Data Cleaning Steps - 
+  		- Data Cleaning Steps - Outliers and Missing Values
    		- Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding
 	- For Text Data
    		- Data Cleaning Steps -
-   			- Removing Special Characters, Punctuations, etc..
-    			- Converting to lower cases
-    			- Removing Stop Words
-      			- Lemmatization / Stemming
+   			a. Removing Special Characters, Punctuations, etc..
+    			b. Converting to lower cases
+    			c. Removing Stop Words
+      			d. Lemmatization / Stemming
 		- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)
 	- For Image Data
   		- Data Cleaning Steps - 
