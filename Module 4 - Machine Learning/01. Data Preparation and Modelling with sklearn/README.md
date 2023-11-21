@@ -11,13 +11,15 @@
 			</ul>
 			<details>
 			<summary><h5>Below Mentioned are the approaches to solve the classification and regression tasks:</h5></summary>
+			<ul>
 				<li><b>Distance Based Approach:</b> KNeighborsClassifier and KNeighborsRegressor</li>
 				<li><b>Rule Based Approach:</b> DecisionTreeClassifier and DecisionTreeRegressor</li>
 				<li><b>Probability Based Approach:</b> Naive Bayes for classification</li>
 				<li><b>Boundary Based Approach:</b> LogisticRegression and SVC  for classification & LinearRegression for Regression</li>
 				<li><b>Ensemble Based Approach:</b> RandomForestClassifier, GBDTClassifier, etc... for Classification & RandomForestRegressor, GBDTRegressor, etc... for Regression</li>
 				<li><b>Deep Learning Based Approach:</b> ANN for Classification and ANN for Regression</li>
-			</<details>>
+			</ul>
+			</details>
 		</details></li>
 		<li><details>
 			<summary><h4>Unsupervised Learning</h4></summary>
