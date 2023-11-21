@@ -34,41 +34,41 @@
 
 ## Model Building Pipeline (Step by Step Procedure)
 1. Identify input(X) and output(y) features.
-<ol>
-	<li><details>
-	<summary>Identifying the Data Preprocessing Techniques</summary>
-		- Identify the data preprocessing techniques by analysing the input variables (i.e. X).  
-		- For Numerical Data  
-			- Data Cleaning Steps - Outliers and Missing Values  
-			- Data Transformation Techniques - Standardization and Normalization  
-		- For Categorical Data  
-			- Data Cleaning Steps - Outliers and Missing Values  
-			- Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding  
-		- For Text Data  
-			- Data Cleaning Steps -  
-				a. Removing Special Characters, Punctuations, etc..  
-					b. Converting to lower cases  
-					c. Removing Stop Words  
-					d. Lemmatization / Stemming  
-			- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)  
-		- For Image Data  
-			- Data Cleaning Steps -   
-			- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers  
-		- Audio Data  
-			- Data Cleaning Steps -   
-			- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)  
-	</details></li>
-	<li><details>
-	<summary>Identifying the supervised ML Task and Evaluation Metric</summary>
-		- Identify the task by analysing the target variable (i.e. y).
-		- For Classification:
-			- Algorithm - Logistic Regression, SVC, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, GBDTClassifier, etc
-			- Evaluation Metric - Accuracy, Confusion Metric, Precision, Recall, ROC AUC, Log Loss, etc
-		- For Regression:
-			- Algorithm - Linear Regression, SVC, KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, GBDTRegressor, etc
-			- Evaluation Metric - Mean Square Error, Root Mean Square Error, Mean Absolute Error, R Square, Adjusted R Square, etc
-	</details></li>
-</ol>
+	<ul>
+		<li><details>
+		<summary>Identifying the Data Preprocessing Techniques</summary>
+			- Identify the data preprocessing techniques by analysing the input variables (i.e. X).  
+			- For Numerical Data  
+				- Data Cleaning Steps - Outliers and Missing Values  
+				- Data Transformation Techniques - Standardization and Normalization  
+			- For Categorical Data  
+				- Data Cleaning Steps - Outliers and Missing Values  
+				- Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding  
+			- For Text Data  
+				- Data Cleaning Steps -  
+					a. Removing Special Characters, Punctuations, etc..  
+						b. Converting to lower cases  
+						c. Removing Stop Words  
+						d. Lemmatization / Stemming  
+				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)  
+			- For Image Data  
+				- Data Cleaning Steps -   
+				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers  
+			- Audio Data  
+				- Data Cleaning Steps -   
+				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)  
+		</details></li>
+		<li><details>
+		<summary>Identifying the supervised ML Task and Evaluation Metric</summary>
+			- Identify the task by analysing the target variable (i.e. y).
+			- For Classification:
+				- Algorithm - Logistic Regression, SVC, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, GBDTClassifier, etc
+				- Evaluation Metric - Accuracy, Confusion Metric, Precision, Recall, ROC AUC, Log Loss, etc
+			- For Regression:
+				- Algorithm - Linear Regression, SVC, KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, GBDTRegressor, etc
+				- Evaluation Metric - Mean Square Error, Root Mean Square Error, Mean Absolute Error, R Square, Adjusted R Square, etc
+		</details></li>
+	</ul>
 4. Split the data(X, y) into training(X_train, y_train) and testing data(X_test, y_test).
 5. Apply Data Preprocessing on X_train (which was identified in step-2). Get X_train_transformed.
 6. Choose an appropriate ML Algorithm (which was identified in step-3). Train a machine learning model using training data (X_train_transformed, y_train).
