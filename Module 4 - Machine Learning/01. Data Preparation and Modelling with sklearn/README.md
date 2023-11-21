@@ -1,7 +1,21 @@
 # Introduction to Data Preprocessing and Modelling using SKLearn Library
 
+<details>
+	<summary><h3>Types of Machine Learning</h3></summary>
+	<ol>
+		<li><details>
+			<summary><h5>Supervised Learning</h5></summary>
+		</details></li>
+		<li><details>
+			<summary><h5>Unsupervised Learning</h5></summary>
+		</details></li>
+		<li><h5>Reinforcement Learning</h5></li>
+	</ol>
+</details>
+
 ## Steps for a Machine Learning Project
 1. Identify input(X) and output(y) features.
+
 2. Identify the Data Preprocessing Techniques.
 	- Identify the data preprocessing techniques by analysing the input variables (i.e. X).
  	- For Numerical Data
