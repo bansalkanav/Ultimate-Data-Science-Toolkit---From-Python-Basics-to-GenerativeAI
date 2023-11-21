@@ -1,36 +1,36 @@
 # Introduction to Data Preprocessing and Modelling using SKLearn Library
 
-<details>
-	<summary><h3>Types of Machine Learning</h3></summary>
-	<ol>
-		<li><details>
-			<summary><h4>Supervised Learning</h4></summary>
-			<ul>
-				<li>Classification Task</li>
-				<li>Regression Task</li>
-			</ul>
-			<details>
-			<summary><h5>Below Mentioned are the approaches to solve the classification and regression tasks:</h5></summary>
-			<ul>
-				<li><b>Distance Based Approach:</b> KNeighborsClassifier and KNeighborsRegressor</li>
-				<li><b>Rule Based Approach:</b> DecisionTreeClassifier and DecisionTreeRegressor</li>
-				<li><b>Probability Based Approach:</b> Naive Bayes for classification</li>
-				<li><b>Boundary Based Approach:</b> LogisticRegression and SVC  for classification & LinearRegression for Regression</li>
-				<li><b>Ensemble Based Approach:</b> RandomForestClassifier, GBDTClassifier, etc... for Classification & RandomForestRegressor, GBDTRegressor, etc... for Regression</li>
-				<li><b>Deep Learning Based Approach:</b> ANN for Classification and ANN for Regression</li>
-			</ul>
-			</details>
-		</details></li>
-		<li><details>
-			<summary><h4>Unsupervised Learning</h4></summary>
-			<ul>
-				<li>Clustering Task</li>
-				<li>Dimensionality Reduction Task</li>
-			</ul>
-		</details></li>
-		<li><h4>Reinforcement Learning</h4></li>
-	</ol>
-</details>
+
+## Types of Machine Learning
+<ol>
+	<li><details>
+		<summary><h4>Supervised Learning</h4></summary>
+		<ul>
+			<li>Classification Task</li>
+			<li>Regression Task</li>
+		</ul>
+		<details>
+		<summary><h5>Below Mentioned are the approaches to solve the classification and regression tasks:</h5></summary>
+		<ul>
+			<li><b>Distance Based Approach:</b> KNeighborsClassifier and KNeighborsRegressor</li>
+			<li><b>Rule Based Approach:</b> DecisionTreeClassifier and DecisionTreeRegressor</li>
+			<li><b>Probability Based Approach:</b> Naive Bayes for classification</li>
+			<li><b>Boundary Based Approach:</b> LogisticRegression and SVC  for classification & LinearRegression for Regression</li>
+			<li><b>Ensemble Based Approach:</b> RandomForestClassifier, GBDTClassifier, etc... for Classification & RandomForestRegressor, GBDTRegressor, etc... for Regression</li>
+			<li><b>Deep Learning Based Approach:</b> ANN for Classification and ANN for Regression</li>
+		</ul>
+		</details>
+	</details></li>
+	<li><details>
+		<summary><h4>Unsupervised Learning</h4></summary>
+		<ul>
+			<li>Clustering Task</li>
+			<li>Dimensionality Reduction Task</li>
+		</ul>
+	</details></li>
+	<li><h4>Reinforcement Learning</h4></li>
+</ol>
+
 
 ## Model Building Pipeline (Step by Step Procedure)
 1. Identify input(X) and output(y) features.
