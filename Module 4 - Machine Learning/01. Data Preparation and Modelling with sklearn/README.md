@@ -5,6 +5,19 @@
 	<ol>
 		<li><details>
 			<summary><h5>Supervised Learning</h5></summary>
+			<ul>
+				<li>Classification Task</li>
+				<li>Regression Task</li>
+			</ul>
+			| Approach | Classification Algorithm | Regression Algorithm |
+			| :---: | :---: | :---: |
+			| Distance Based Approach | KNeighborsClassifier | KNeighborsRegressor |
+			| Rule Based Approach | DecisionTreeClassifier | DecisionTreeRegressor |
+			| Probability Based Approach | Naive Bayes | NA |
+			| Boundary Based Approach | LogisticRegression and SVC | LinearRegression |
+			| Ensemble Based Approach | RandomForestClassifier, GBDTClassifier, etc... | RandomForestRegressor, GBDTRegressor, etc... |
+			| Deep Learning Based Approach | ANN for Classification | ANN for Regression |
+
 		</details></li>
 		<li><details>
 			<summary><h5>Unsupervised Learning</h5></summary>
