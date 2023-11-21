@@ -9,6 +9,8 @@
 				<li>Classification Task</li>
 				<li>Regression Task</li>
 			</ul>
+			<details>
+			<summary><h5>Click here to view all the algorithms:</h5></summary>
 			| Approach | Classification Algorithm | Regression Algorithm |
 			| :---: | :---: | :---: |
 			| Distance Based Approach | KNeighborsClassifier | KNeighborsRegressor |
@@ -17,7 +19,7 @@
 			| Boundary Based Approach | LogisticRegression and SVC | LinearRegression |
 			| Ensemble Based Approach | RandomForestClassifier, GBDTClassifier, etc... | RandomForestRegressor, GBDTRegressor, etc... |
 			| Deep Learning Based Approach | ANN for Classification | ANN for Regression |
-
+			</details>
 		</details></li>
 		<li><details>
 			<summary><h5>Unsupervised Learning</h5></summary>
