@@ -23,6 +23,11 @@
 		</details></li>
 		<li><details>
 			<summary><h4>Unsupervised Learning</h4></summary>
+			<ul>
+				<li>Clustering Task</li>
+				<li>Dimensionality Reduction Task</li>
+			</ul>
+
 		</details></li>
 		<li><h4>Reinforcement Learning</h4></li>
 	</ol>
