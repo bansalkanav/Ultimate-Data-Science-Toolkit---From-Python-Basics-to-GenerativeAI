@@ -36,27 +36,27 @@
 1. Identify input(X) and output(y) features.
 	<ul>
 		<li><details>
-		<summary>Identifying the Data Preprocessing Techniques</summary>
-			- Identify the data preprocessing techniques by analysing the input variables (i.e. X).  
+		<summary>Identifying the Data Preparation Techniques</summary>
+			- Identify the data preparation techniques by analysing the input variables (i.e. X).  
 			- For Numerical Data  
 				- Data Cleaning Steps - Outliers and Missing Values  
-				- Data Transformation Techniques - Standardization and Normalization  
+				- Feature Engineering Techniques - Standardization and Normalization  
 			- For Categorical Data  
 				- Data Cleaning Steps - Outliers and Missing Values  
-				- Data Transformation Techniques - One Hot Encoding / Dummy Encoding and Label Encoding  
+				- Feature Engineering Techniques - One Hot Encoding / Dummy Encoding and Label Encoding  
 			- For Text Data  
 				- Data Cleaning Steps -  
 					a. Removing Special Characters, Punctuations, etc..  
 						b. Converting to lower cases  
 						c. Removing Stop Words  
 						d. Lemmatization / Stemming  
-				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)  
+				- Feature Engineering Techniques(Feature Extraction or Vectorization Techniques) - Bag of Words, Term Frequency Inverse Document Frequency (TF IDF), Word2Vec, GloVe, FastText, RNN, LSTMs, GRUs, Embeddings from Language Models (ELMo), Bidirectional Encoder Representation from Transformers (BERT)  
 			- For Image Data  
 				- Data Cleaning Steps -   
-				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers  
+				- Feature Engineering Techniques(Feature Extraction or Vectorization Techniques) - Flattening, Convolutional Neural Network + Flattening (architechtures like: VGGNet, AlexNet, Inception Module (GoogleNet), ResNet, MobileNet, EfficientNet, etc...), VisionTransformers  
 			- Audio Data  
 				- Data Cleaning Steps -   
-				- Data Transformation Techniques(Feature Extraction or Vectorization Techniques) - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)  
+				- Feature Engineering Techniques(Feature Extraction or Vectorization Techniques) - Mel Scaled Filter Bank, Mel Frequency Cepstral Coefficients (MFCC)  
 		</details></li>
 		<li><details>
 		<summary>Identifying the supervised ML Task and Evaluation Metric</summary>
