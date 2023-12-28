@@ -1,0 +1,9 @@
+Joke e-mail virus tricks users
+
+A virus that disguises itself as a joke is spreading rapidly across the net.
+
+Anti-virus firms are issuing high-level warnings about the new version of the Bagle e-mail program that seems to be catching a lot of people out. The Windows virus grabs e-mail addresses from Microsoft Outlook and uses its own mail sending software to spread itself to new victims. When it infects a machine, the Bagle variant turns off security measures that usually protect PCs.
+
+The new variant is called Bagle.AT, Bagle.BB and Bagle.AU and the attachment bearing the virus code is labelled as either "joke" or "price".
+
+The body of the virus usually contains nothing but a smiley or emoticon. The virus can strike computers running Windows 95, 98, ME, NT, 2000 and XP. Users will be infected if they open the attachment that travels with the e-mail. As well as plundering Microsoft Outlook for e-mail addresses to send itself to, Bagle.AT also tries to turn off the firewall and security centre services on Windows XP machines. BBC News Online has received five warnings about the virus from security companies. Finnish company F-Secure gave the virus its second highest threat level. "We've had several reports all over the world," said Mikko Hypponen, director of anti-virus research for F-Secure. Security firm Network Box said that it stopped more than 30,000 copies an hour of the virus as the outbreak reached a peak. Black Spider said it had stopped more than 1 million copies of Bagle.AT since the outbreak began at 0630 BST (0530 GMT). Anti-virus firms urged users to be wary of unexpected e-mail messages bearing attachments and to update their software to ensure they are protected against the latest threats.

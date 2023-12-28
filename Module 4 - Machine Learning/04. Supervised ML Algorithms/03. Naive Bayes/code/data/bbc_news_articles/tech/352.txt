@@ -1,0 +1,7 @@
+Slow start to speedy net services
+
+Faster broadband in the UK is becoming a reality as more internet providers offer super-fast services.
+
+Some lucky Britons can already take advantage of UK Online's 8 megabits per second service, which was launched in November 2004. BT Retail has announced that it will trial the same speed service, with a national rollout by year end. Other service providers are expected to follow suit and a glut of new voice and video services will follow.
+
+"If the bandwidth is there then ISPs will buy it," said Jill Finger, a research director at analyst firm IDC. Others will be watching BT Retail's trials, which is initially for employees and later in the summer for customers, with interest. For BT Retail, she said, the super-fast service could be a way of differentiating it from other players. "It has been losing market share and this could be one way of gaining some of that back," said Ms Finger. Wanadoo is set to trial an 8Mbps service in the summer and also plans to roll out unbundled services - which means it takes over the network from BT - which will provide speeds of up to 15Mbps. There is no timetable for this at the moment. Cable firms ntl and Telewest are also bound to increase bandwidth at some time in the future and, according to an ntl spokesman, are in a better position than BT in the long term. "BT's network is limited compared to that of cable. With all the other services coming on stream such as video on demand, the question is will 8Mbps be enough?" he asked.

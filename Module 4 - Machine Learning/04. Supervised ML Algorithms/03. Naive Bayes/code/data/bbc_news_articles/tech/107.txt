@@ -1,0 +1,11 @@
+Pandas benefit from wireless net
+
+The world's dwindling panda population is getting a helping hand from a wireless internet network.
+
+The Wolong Nature Reserve in the Sichuan Province of southwest China is home to 20% of the remaining 1,500 giant pandas in the world. A broadband and wireless network installed on the reserve has allowed staff to chronicle the pandas' daily activities. The data and images can be shared with colleagues around the world. The reserve conducts vital research on both panda breeding and bamboo ecology.
+
+Using the network, vets have been able to observe how infant pandas feed and suggest changes to improve the tiny cubs' chances of survival.
+
+"Digital technology has transformed the way we communicate and share information inside Wolong and with the rest of the world," said Zhang Hemin, director of the Wolong Nature Reserve. "Our researchers now have state-of-the-art digital technology to help foster the panda population and manage our precious surroundings." The network has been developed by Intel, working closely with the staff at Wolong. It includes a 802.11b wireless network and a video monitoring system using five cameras to observe pandas around the clock.
+
+Before the new infrastructure arrived at the panda park, staff walked or drove to deliver floppy disks across the reserve. Infant panda health was recorded on paper notebooks and research teams in the field had little access to the data. To foster cultural links across the globe, a children's learning lab has been incorporated in the network, in collaboration with Globio (Federation for Global Biodiversity Education for Children), an international non-profit organisation. It will enable children at local primary schools to hook up with their peers in Portland, Oregon in the US. "Digital technology brings this story to life by enabling a global dialogue to help bridge cultures around the world," said Globio founder Gerry Ellis.

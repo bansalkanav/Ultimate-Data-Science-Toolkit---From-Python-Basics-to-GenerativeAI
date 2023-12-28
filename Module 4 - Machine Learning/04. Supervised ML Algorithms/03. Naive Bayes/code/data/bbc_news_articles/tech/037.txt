@@ -1,0 +1,7 @@
+US woman sues over cartridges
+
+A US woman is suing Hewlett Packard (HP), saying its printer ink cartridges are secretly programmed to expire on a certain date.
+
+The unnamed woman from Georgia says that a chip inside the cartridge tells the printer that it needs re-filling even when it does not. The lawsuit seeks to represent anyone in the US who has purchased an HP inkjet printer since February 2001. HP, the world's biggest printer firm, declined to comment on the lawsuit. HP ink cartridges use a chip technology to sense when they are low on ink and advise the user to make a change.
+
+But the suit claims the chips also shut down the cartridges at a predetermined date regardless of whether they are empty. "The smart chip is dually engineered to prematurely register ink depletion and to render a cartridge unusable through the use of a built-in expiration date that is not revealed to the consumer," the suit said. The lawsuit is asking for restitution, damages and other compensation. The cost of printer cartridges has been a contentious issue in Europe for the last 18 months. The price of inkjet printers has come down to as little as £34 but it could cost up to £1,700 in running costs over an 18-month period due to cartridge, a study by Computeractive Magazine revealed last year. The inkjet printer market has been the subject of an investigation by the UK's Office of Fair Trading (OFT), which concluded in a 2002 report that retailers and manufacturers needed to make pricing more transparent for consumers.

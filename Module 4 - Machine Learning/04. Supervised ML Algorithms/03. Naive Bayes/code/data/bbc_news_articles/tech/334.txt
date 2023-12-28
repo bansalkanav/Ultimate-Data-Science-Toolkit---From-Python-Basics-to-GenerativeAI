@@ -1,0 +1,7 @@
+Security warning over 'FBI virus'
+
+The US Federal Bureau of Investigation is warning that a computer virus is being spread via e-mails that purport to be from the FBI.
+
+The e-mails show that they have come from an fbi.gov address and tell recipients that they have accessed illegal websites. The messages warn that their internet use has been monitored by the FBI's Internet Fraud Complaint Center. An attachment in the e-mail contains the virus, the FBI said. The message asks recipients to click on the attachment and answer some questions about their internet use. But rather than being a questionnaire, the attachment contains a virus that infects the recipient's computer, according to the agency. It is not clear what the virus does once it has infected a computer. Users are warned never to open attachment from unsolicited e-mails or from people they do not know.
+
+"Recipients of this or similar solicitations should know that the FBI does not engage in the practice of sending unsolicited e-mails to the public in this manner," the FBI said in a statement. The bureau is investigating the phoney e-mails. The agency earlier this month shut down fbi.gov accounts, used to communicate with the public, because of a security breach. A spokeswoman said the two incidents appear to be unrelated.

@@ -1,0 +1,15 @@
+Robots learn 'robotiquette' rules
+
+Robots are learning lessons on "robotiquette" - how to behave socially - so they can mix better with humans.
+
+By playing games, like pass-the-parcel, a University of Hertfordshire team is finding out how future robot companions should react in social situations. The study's findings will eventually help humans develop a code of social behaviour in human-robot interaction. The work is part of the European Cogniron robotics project, and was on show at London's Science Museum.
+
+"We are assuming a situation in which a useful human companion robot already exists," said Professor Kerstin Dautenhahn, project leader at Hertfordshire. "Our mission is to look at how such a robot should be programmed to respect personal spaces of humans."
+
+The research also focuses on human perception of robots, including how they should look, and how a robot can learn new skills by imitating a human demonstrator. "Without such studies, you will build robots which might not respect the fact that humans are individuals, have preferences and come from different cultural backgrounds," Professor Dautenhahn told BBC News Online. "And I want robots to treat humans as human beings, and not like other robots," she added.
+
+In most situations, a companion robot will eventually have to deal not only with one person, but also with groups of people. To find out how they would react, the Hertfordshire Cogniron team taught one robot to play pass-the-parcel with children.
+
+Showing off its skills at the Science Museum, the unnamed robot had to select, approach, and ask different children to pick up a parcel with a gift, moving it arm as a pointer and its camera as an eye. It even used speech to give instructions and play music. However, according to researchers, it will still take many years to build a robot which would make full use of the "robotiquette" for human interaction. "If you think of a robot as a companion for the human being, you can think of 20 years into the future," concluded Professor Dautenhahn. "It might take even longer because it is very, very hard to develop such a robot."
+
+You can hear more on this story on the BBC World Service's Go Digital programme.

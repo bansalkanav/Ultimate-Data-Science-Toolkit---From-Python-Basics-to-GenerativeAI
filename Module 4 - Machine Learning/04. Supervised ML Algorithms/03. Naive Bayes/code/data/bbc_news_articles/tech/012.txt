@@ -1,0 +1,7 @@
+IBM puts cash behind Linux push
+
+IBM is spending $100m (£52m) over the next three years beefing up its commitment to Linux software.
+
+The cash injection will be used to help its customers use Linux on every type of device from handheld computers and phones right up to powerful servers. IBM said the money will fund a variety of technical, research and marketing initiatives to boost Linux use. IBM said it had taken the step in response to greater customer demand for the open source software.
+
+In 2004 IBM said it had seen double digit growth in the number of customers using Linux to help staff work together more closely. The money will be used to help this push towards greater collaboration and will add Linux-based elements to IBM's Workplace software. Workplace is a suite of programs and tools that allow workers to get at core business applications no matter what device they use to connect to corporate networks. One of the main focuses of the initiative will be to make it easier to use Linux-based desktop computers and mobile devices with Workplace. Even before IBM announced this latest spending boost it was one of the biggest advocates of the open source way of working. In 2001 it put $300m into a three-year Linux program and has produced Linux versions of many of its programs. Linux and the open source software movement are based on the premise that developers should be free to tinker with the core components of software programs. They reason that more open scrutiny of software produces better programs and fuels innovation.

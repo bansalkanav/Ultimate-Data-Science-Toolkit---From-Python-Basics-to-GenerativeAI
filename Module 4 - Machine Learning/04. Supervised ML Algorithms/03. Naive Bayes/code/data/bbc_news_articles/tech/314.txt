@@ -1,0 +1,7 @@
+Junk e-mails on relentless rise
+
+Spam traffic is up by 40%, putting the total amount of e-mail that is junk up to an astonishing 90%.
+
+The figures, from e-mail management firm Email Systems, will alarm firms attempting to cope with the amount of spam in their in-boxes. While virus traffic has slowed down, denial of service attacks are on the increase according to the firm. Virus mail accounts for just over 15% of all e-mail traffic analysis by the firm has found.
+
+It is no longer just multi-nationals that are in danger of so-called denial of service attacks, in which websites are bombarded by requests for information and rendered inaccessible. Email Systems refers to a small UK-based engineering firm, which received a staggering 12 million e-mails in January. The type of spam currently being sent has subtlety altered in the last few months, according to Email Systems analysis. Half of spam received since Christmas has been health-related with gambling and porn also on the increase. Scam mails, offering ways to make a quick buck, have declined by 40%. "January is clearly a month when consumers are less motivated to purchase financial products or put money into dubious financial opportunities," said Neil Hammerton, managing director of Email Systems. "Spammers seem to have adapted their output to reflect this, focussing instead on medically motivated and pornographic offers, presumably intentionally intended to coincide with what is traditionally considered to be the bleakest month in the calendar," he said.

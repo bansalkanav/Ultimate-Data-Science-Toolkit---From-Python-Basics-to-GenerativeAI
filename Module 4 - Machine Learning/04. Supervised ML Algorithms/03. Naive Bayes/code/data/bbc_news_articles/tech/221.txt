@@ -1,0 +1,11 @@
+Halo 2 heralds traffic explosion
+
+The growing popularity of online gaming could spell problems for net service firms, warns network monitoring company Sandvine.
+
+It issued the warning following analysis which shows that traffic on the Xbox game network increased fourfold on the launch day of Halo 2. The 9 November traffic explosion has continued into December, said Sandvine. Service providers now need to make sure that their networks can cope with the increasing demands for bandwidth. As well as being a popular single-player title, Halo 2 can be connected to Microsoft's subscription-based broadband network, Xbox Live. Gamers who want to play online can create their own clan, or team, and take on others to see how well they compare.
+
+But the surge in numbers and huge demands for bandwidth should be a wake-up call to the industry which must ensure that their networks can cope with the increases in traffic, said Sandvine's chief technology officer Marc Morin.
+
+In a bid to cope and ease congestion, providers are increasingly making their networks intelligent, finding out who is using bandwidth and for what. It could become common to charge people for the amount of bandwidth they use. "The explosion in Xbox Live traffic attributed to Halo 2 should be seen as a clarion call," he said. "ISPs need to enhance the broadband experience for these high-end users by prioritising or reserving bandwidth for games," he added.
+
+One of the main factors that spoils online gaming is "lag" in which there is a noticeable delay between a gamer clicking on a mouse or keyboard and what happens in the online gaming world. Gamers tend to migrate toward networks with the lowest "lag". Analysing traffic will become increasingly important for service providers if they are to hold on to bandwidth-hungry gamers said Lindsay Schroth, an analyst with research firm The Yankee Group. "In the competitive broadband environment, operators need to differentiate the way they offer access to services like live-play gaming," she said. In countries such as Korea, which has high levels of fast net connections to homes, online gaming is hugely popular.

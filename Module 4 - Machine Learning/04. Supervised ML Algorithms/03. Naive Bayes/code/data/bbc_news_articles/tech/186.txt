@@ -1,0 +1,11 @@
+China 'blocks Google news site'
+
+China has been accused of blocking access to Google News by the media watchdog, Reporters Without Borders.
+
+The Paris-based pressure group said the English-language news site had been unavailable for the past 10 days. It said the aim was to force people to use a Chinese edition of the site which, according to the watchdog, does not include critical reports. Google told the BBC News website it was aware of the problems and was investigating the causes.
+
+China is believed to extend greater censorship over the net than any other country in the world.
+
+A net police force monitors websites and e-mails, and controls on gateways connecting the country to the global internet are designed to prevent access to critical information. Popular Chinese portals such as Sina.com and Sohu.com maintain a close eye on content and delete politically sensitive comments. And all 110,000 net cafes in the country have to use software to control access to websites considered harmful or subversive.
+
+"China is censoring Google News to force internet users to use the Chinese version of the site which has been purged of the most critical news reports," said the group in a statement. "By agreeing to launch a news service that excludes publications disliked by the government, Google has let itself be used by Beijing," it said. For its part, the search giant said it was looking into the issue. "It appears that many users in China are having difficulty accessing Google News sites in China and we are working to understand and resolve the issue," said a Google spokesperson. Google News gathers information from some 4,500 news sources. Headlines are selected for display entirely by a computer algorithm, with no human editorial intervention. It offers 15 editions of the service, including one tailored for China and one for Hong Kong. Google launched a version in simplified Chinese in September. The site does not filter news results to remove politically sensitive information. But Google does not link to news sources which are inaccessible from within China as this would result in broken links.

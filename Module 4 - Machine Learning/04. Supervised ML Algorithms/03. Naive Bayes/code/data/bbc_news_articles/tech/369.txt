@@ -1,0 +1,11 @@
+Microsoft plans 'safer ID' system
+
+Microsoft is planning to make Windows and Internet Explorer more secure by including software to give people more control over personal information.
+
+"Info cards" will help people manage personal details on their PCs to make online services safer, said Microsoft. Microsoft's two previous programs, Passport and Hailstorm, aimed to protect users but were criticised. ID fraud is one of the UK's fastest-growing crimes, with criminals netting an estimated £1.3bn last year. A quarter of UK adults has either had their ID stolen, via hi-tech or other means, or knows someone who has, a recent report by Which? magazine found.
+
+Microsoft is developing a new version of Internet Explorer browser and its operating system, Windows, which has been code-named Longhorn. Michael Stephenson, director in Microsoft's Windows Server division, would not confirm however whether the new info cards ID system will be built into the current Windows XP version or Longhorn.
+
+"We're trying to make the end-user experience as simple as possible," Mr Stephenson said. The system would differ from its previous attempts to make online transactions more secure, said Microsoft. While Passport and Hailstorm stored user information centrally on the net, the latest system will store data on a user's PC. "It's going to put control of digital IDs into the hands of an end-user, the end-user will be in full control," said Mr Stephenson.
+
+Hailstorm was criticised by privacy campaigners for putting too much sensitive information into the hands of a single company. Passport provides a single log-in for more than one website and stores basic personal information. But its popularity suffered after security scares. Up to 200 million Passport accounts were left vulnerable to online theft and malicious hackers after a flaw in the system was exploited in 2003. Online auction site, eBay, stopped supporting it in January 2005. Although the flaw was fixed, Microsoft has come under regular criticism for the number of security loopholes in Internet Explorer. Last year, it released a major security update for Windows, Service Pack 2, to combat some of the security concerns. Longhorn is due to be released commercially in late 2006, but an updated version of Internet Explorer is due for release later this year.
