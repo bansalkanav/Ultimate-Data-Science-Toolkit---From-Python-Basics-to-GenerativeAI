@@ -1,5 +1,9 @@
 # Introduction to Data Preprocessing and Modelling using SKLearn Library
 
+
+<img src="1. Hands-on with sklearn/notes/model_building_pipeline.jpg">
+
+
 <b>[Click Here](https://model-building-pipeline-tutorial.streamlit.app/) to visualize the step-by-step process of building a Machine Learning model.</b>
 
 ## Types of Machine Learning
