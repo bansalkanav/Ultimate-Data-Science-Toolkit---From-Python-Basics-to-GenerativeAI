@@ -1,1 +1,0 @@
-# Logistic Regression Algorithm

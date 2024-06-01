@@ -1,9 +1,0 @@
-Fast moving phone viruses appear
-
-Security firms are warning about several mobile phone viruses that can spread much faster than similar bugs.
-
-The new strains of the Cabir mobile phone virus use short-range radio technology to leap to any vulnerable phone as soon as it is in range. The Cabir virus only affects high-end handsets running the Symbian Series 60 phone operating system. Despite the warnings, there are so far no reports of any phones being infected by the new variants of Cabir.
-
-The original Cabir worm came to light in mid-June 2004 when it was sent to anti-virus firms as a proof-of-concept program. A mistake in the way the original Cabir was written meant that even if it escaped from the laboratory, the bug would only have been able to infect one phone at a time.
-
-However, the new Cabir strains have this mistake corrected and will spread via short range Bluetooth technology to any vulnerable phone in range. Bluetooth has an effective range of a few tens of metres. The risk of being infected by Cabir is low because users must give the malicious program permission to download on to their handset and then must manually install it. Users can protect themselves by altering a setting on Symbian phones that conceals the handset from other Bluetooth using devices. Finnish security firm F-Secure issued a warning about the new strains of Cabir but said that the viruses do not do any damage to a phone. All they do is block normal Bluetooth activity and drain the phone's battery. Anti-virus firm Sophos said the source code for Cabir had been posted on the net by a Brazilian programmer which might lead to even more variants of the program being created. So far seven versions of Cabir are know to exist, one of which was inside the malicious Skulls program that was found in late November. Symbian's Series 60 software is licenced by Nokia, LG Electronics, Lenovo, Panasonic, Samsung, Sendo and Siemens.

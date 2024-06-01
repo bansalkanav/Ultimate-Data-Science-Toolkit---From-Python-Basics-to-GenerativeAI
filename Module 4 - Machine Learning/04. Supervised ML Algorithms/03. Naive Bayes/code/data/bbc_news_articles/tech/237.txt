@@ -1,7 +1,0 @@
-Microsoft takes on desktop search
-
-Microsoft has entered the desktop search fray, releasing a test version of its tool to find documents, e-mails and other files on a PC hard drive.
-
-The beta program only works on PCs running Windows XP or Windows 2000. The desktop search market is becoming increasingly crowded with firms touting programs that help people find files. Search giant Google launched its desktop search tool in October, while Yahoo is planning to release similar software in January.
-
-"Our ambition for search is to provide the ultimate information tool that can find anything you're looking for," said Yusuf Mehdi, corporate vice president at Microsoft's MSN internet division. Microsoft's program can be used as a toolbar on the Windows desktop, the Internet Explorer browser and within the Outlook e-mail program. The software giant is coming late to the desktop search arena, competing with a large number of rivals. Google has already released a desktop tool. Yahoo is planning to get into the game in January and AOL is expected to offer desktop searching early next year. Small firms such as Blinkx, Copernic, Enfish X1 Technologies and X-Friend offer tools that catalogue the huge amounts of information that people increasingly store on their desktop or home computer. Apple will release a similar search system for its computers called Spotlight that is due to be released with the Tiger operating system.

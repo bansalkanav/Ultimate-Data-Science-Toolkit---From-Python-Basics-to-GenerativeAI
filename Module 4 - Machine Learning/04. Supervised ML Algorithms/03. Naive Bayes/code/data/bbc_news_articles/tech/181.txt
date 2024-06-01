@@ -1,9 +1,0 @@
-Mobiles double up as bus tickets
-
-Mobiles could soon double up as travel cards, with Nokia planning to try out a wireless ticket system on German buses.
-
-Early next year travellers in the city of Hanau, near Frankfurt, will be able to pay for tickets by passing their phone over a smart-card reader already installed on the buses. Passengers will need to own a Nokia 3220 handset which will have a special shell attached to it. The system would reduce queues and make travelling easier, said Nokia.
-
-Transport systems around the world are seeing the advantage of using ticketless smartcards. Using a mobile phone is the next step, said Gerhard Romen, head of market development at Nokia.
-
-The ticketless trial will start early in 2005 and people will also be able to access transport information and timetables via their phones. Nokia has worked with electronics giant Philips to develop a shell for the mobile phone that will be compatible with Hanau's existing ticketing system. The system opens up possibilities for mobile devices to be interact with everyday environments, said Mr Romen. "It could be used in shops to get product information, at bus-stops to get information about the next bus or, for example, by being passed over an advert of a rock star to find out details of concerts or get ringtones," he told the BBC News website. He is confident that the trial being run in Germany could be extended to transport systems in other countries. "The technology offers access to a lot of services and makes it easy to get the information you want," he said.
