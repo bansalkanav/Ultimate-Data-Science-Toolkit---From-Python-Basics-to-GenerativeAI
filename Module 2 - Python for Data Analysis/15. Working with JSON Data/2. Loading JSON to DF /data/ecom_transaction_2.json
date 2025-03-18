@@ -1,0 +1,97 @@
+[
+    {
+        "order_id": "ORD1",
+        "customer": {
+            "id": 1639,
+            "name": "Angela Griffin",
+            "email": "gibbsedward@example.org",
+            "address": {
+                "street": "24026 Darlene Ranch",
+                "city": "Angelashire",
+                "country": "Saint Helena"
+            }
+        },
+        "items": [
+            {
+                "product_id": 25,
+                "name": "Mountain Bike",
+                "category": "Sports",
+                "price": 599.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 23,
+                "name": "Tennis Racket",
+                "category": "Sports",
+                "price": 89.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "method": "Credit Card",
+            "transaction_id": "D005B042-A",
+            "discount_applied": 2.48
+        }
+    },
+    {
+        "order_id": "ORD2",
+        "customer": {
+            "id": 163,
+            "name": "Sarah Moore",
+            "email": "zshelton@example.org",
+            "address": {
+                "street": "33466 Kristin Meadow Suite 060",
+                "city": "Lake Brittany",
+                "country": "Nigeria"
+            }
+        },
+        "items": [
+            {
+                "product_id": 24,
+                "name": "Hydration Backpack for Runners",
+                "category": "Sports",
+                "price": 59.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 21,
+                "name": "Yoga Mat with Non-Slip Surface",
+                "category": "Sports",
+                "price": 39.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "method": "Credit Card",
+            "transaction_id": "C1A2BCA7-1",
+            "discount_applied": 6.12
+        }
+    },
+    {
+        "order_id": "ORD3",
+        "customer": {
+            "id": 1814,
+            "name": "Dwayne Hartman",
+            "email": "daviddyer@example.org",
+            "address": {
+                "street": "32036 Rodney Creek",
+                "city": "New Brandy",
+                "country": "Sierra Leone"
+            }
+        },
+        "items": [
+            {
+                "product_id": 28,
+                "name": "Noise-Canceling Office Headset",
+                "category": "Accessories",
+                "price": 89.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "method": "Credit Card",
+            "transaction_id": "98F4114D-B",
+            "discount_applied": 5.42
+        }
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {"id": 1, "name": "Alice", "orders": [
+        {"order_id": 101, "amount": 250},
+        {"order_id": 102, "amount": 150}
+    ]},
+    {"id": 2, "name": "Bob", "orders": [
+        {"order_id": 103, "amount": 300}
+    ]}
+]

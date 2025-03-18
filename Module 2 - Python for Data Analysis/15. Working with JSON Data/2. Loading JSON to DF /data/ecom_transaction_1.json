@@ -1,0 +1,7 @@
+[
+    {"customer": "Alice", "amount": 200, "date": "2024-03-01"},
+    {"customer": "Bob", "amount": 150, "date": "2024-03-02"},
+    {"customer": "Alice", "amount": 300, "date": "2024-03-05"},
+    {"customer": "Charlie", "amount": 500, "date": "2024-03-06"},
+    {"customer": "Bob", "amount": 100, "date": "2024-03-07"}
+]
