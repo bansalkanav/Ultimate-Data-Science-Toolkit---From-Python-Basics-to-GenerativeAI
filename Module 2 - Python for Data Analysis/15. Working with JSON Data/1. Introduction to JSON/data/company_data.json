@@ -1,0 +1,25 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 101,
+      "name": "Alice",
+      "role": "Data Analyst",
+      "skills": ["Python", "SQL"],
+      "projects": {
+        "current": "Sales Forecasting",
+        "completed": ["Customer Segmentation", "Churn Prediction"]
+      }
+    },
+    {
+      "id": 102,
+      "name": "Bob",
+      "role": "Data Engineer",
+      "skills": ["Spark", "Hadoop"],
+      "projects": {
+        "current": "ETL Pipeline Optimization",
+        "completed": ["Data Warehouse Setup"]
+      }
+    }
+  ]
+}

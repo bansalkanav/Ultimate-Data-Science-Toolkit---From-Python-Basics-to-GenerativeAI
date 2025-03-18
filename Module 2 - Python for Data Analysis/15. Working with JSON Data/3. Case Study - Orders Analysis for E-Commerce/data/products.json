@@ -1,0 +1,212 @@
+[
+    {
+        "product_id": 1,
+        "name": "Wireless Noise-Canceling Headphones",
+        "category": "Electronics",
+        "price": 249.99,
+        "quantity": 50
+    },
+    {
+        "product_id": 2,
+        "name": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 899.99,
+        "quantity": 30
+    },
+    {
+        "product_id": 3,
+        "name": "Bluetooth Portable Speaker",
+        "category": "Electronics",
+        "price": 129.99,
+        "quantity": 75
+    },
+    {
+        "product_id": 4,
+        "name": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 1499.99,
+        "quantity": 20
+    },
+    {
+        "product_id": 5,
+        "name": "Smartphone 5G",
+        "category": "Electronics",
+        "price": 799.99,
+        "quantity": 60
+    },
+    {
+        "product_id": 6,
+        "name": "Mechanical Gaming Keyboard",
+        "category": "Accessories",
+        "price": 99.99,
+        "quantity": 100
+    },
+    {
+        "product_id": 7,
+        "name": "Ergonomic Wireless Mouse",
+        "category": "Accessories",
+        "price": 39.99,
+        "quantity": 150
+    },
+    {
+        "product_id": 8,
+        "name": "Smartwatch with Heart Rate Monitor",
+        "category": "Accessories",
+        "price": 199.99,
+        "quantity": 80
+    },
+    {
+        "product_id": 9,
+        "name": "USB-C Charging Dock",
+        "category": "Accessories",
+        "price": 59.99,
+        "quantity": 120
+    },
+    {
+        "product_id": 10,
+        "name": "Noise-Isolating Earbuds",
+        "category": "Accessories",
+        "price": 79.99,
+        "quantity": 90
+    },
+    {
+        "product_id": 11,
+        "name": "Men's Waterproof Jacket",
+        "category": "Clothing",
+        "price": 89.99,
+        "quantity": 70
+    },
+    {
+        "product_id": 12,
+        "name": "Cotton Crew Neck T-Shirt",
+        "category": "Clothing",
+        "price": 19.99,
+        "quantity": 200
+    },
+    {
+        "product_id": 13,
+        "name": "Slim Fit Denim Jeans",
+        "category": "Clothing",
+        "price": 49.99,
+        "quantity": 100
+    },
+    {
+        "product_id": 14,
+        "name": "Running Shoes",
+        "category": "Clothing",
+        "price": 129.99,
+        "quantity": 50
+    },
+    {
+        "product_id": 15,
+        "name": "Woolen Winter Gloves",
+        "category": "Clothing",
+        "price": 24.99,
+        "quantity": 150
+    },
+    {
+        "product_id": 16,
+        "name": "Stainless Steel Cookware Set",
+        "category": "Home",
+        "price": 159.99,
+        "quantity": 40
+    },
+    {
+        "product_id": 17,
+        "name": "Premium Memory Foam Pillow",
+        "category": "Home",
+        "price": 49.99,
+        "quantity": 100
+    },
+    {
+        "product_id": 18,
+        "name": "Ceramic Dinnerware Set",
+        "category": "Home",
+        "price": 129.99,
+        "quantity": 60
+    },
+    {
+        "product_id": 19,
+        "name": "High-Powered Vacuum Cleaner",
+        "category": "Home",
+        "price": 199.99,
+        "quantity": 30
+    },
+    {
+        "product_id": 20,
+        "name": "Adjustable Standing Desk",
+        "category": "Home",
+        "price": 299.99,
+        "quantity": 25
+    },
+    {
+        "product_id": 21,
+        "name": "Yoga Mat with Non-Slip Surface",
+        "category": "Sports",
+        "price": 39.99,
+        "quantity": 120
+    },
+    {
+        "product_id": 22,
+        "name": "Adjustable Dumbbell Set",
+        "category": "Sports",
+        "price": 179.99,
+        "quantity": 50
+    },
+    {
+        "product_id": 23,
+        "name": "Tennis Racket",
+        "category": "Sports",
+        "price": 89.99,
+        "quantity": 40
+    },
+    {
+        "product_id": 24,
+        "name": "Hydration Backpack for Runners",
+        "category": "Sports",
+        "price": 59.99,
+        "quantity": 70
+    },
+    {
+        "product_id": 25,
+        "name": "Mountain Bike",
+        "category": "Sports",
+        "price": 599.99,
+        "quantity": 15
+    },
+    {
+        "product_id": 26,
+        "name": "Professional DSLR Camera",
+        "category": "Electronics",
+        "price": 1299.99,
+        "quantity": 25
+    },
+    {
+        "product_id": 27,
+        "name": "Smart Home Security Camera",
+        "category": "Electronics",
+        "price": 149.99,
+        "quantity": 75
+    },
+    {
+        "product_id": 28,
+        "name": "Noise-Canceling Office Headset",
+        "category": "Accessories",
+        "price": 89.99,
+        "quantity": 90
+    },
+    {
+        "product_id": 29,
+        "name": "Winter Puffer Jacket",
+        "category": "Clothing",
+        "price": 129.99,
+        "quantity": 40
+    },
+    {
+        "product_id": 30,
+        "name": "Home Theater Speaker System",
+        "category": "Electronics",
+        "price": 499.99,
+        "quantity": 30
+    }
+]

@@ -1,0 +1,53 @@
+{
+    "company": "TechCorp",
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice",
+            "role": "Senior Data Analyst",
+            "skills": [
+                "Python",
+                "SQL"
+            ],
+            "projects": {
+                "current": "Sales Forecasting",
+                "completed": [
+                    "Customer Segmentation",
+                    "Churn Prediction"
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "name": "Bob",
+            "role": "Data Engineer",
+            "skills": [
+                "Spark",
+                "Hadoop"
+            ],
+            "projects": {
+                "current": "ETL Pipeline Optimization",
+                "completed": [
+                    "Data Warehouse Setup"
+                ]
+            },
+            "email": "bob@techcorp.org"
+        },
+        {
+            "id": 103,
+            "name": "Charlie",
+            "role": "ML Engineer",
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "NLP"
+            ],
+            "projects": {
+                "current": "Chatbot Development",
+                "completed": [
+                    "Sentiment Analysis"
+                ]
+            }
+        }
+    ]
+}
