@@ -135,6 +135,7 @@ Coming Soon
 
 <details> 
 <summary> <h2>Module 9 - Generative AI </h2> </summary>
+
 | Topic Name | What's Covered |
 | :---: | :---: |
 | Working with Text Data and Text Embeddings | What's Covered |
