@@ -127,3 +127,24 @@
 | [Auto Encoders for Image Compression](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning/tree/master/Module%207%20-%20Deep%20Learning/04.%20Auto%20Encoder%20(Deep%20Generative%20Models)) | What's Covered |
 | Recurrent Neural Network (Coming Soon) | What's Covered |
 </details>
+
+<details> 
+<summary> <h2>Module 8 - Interview Prep </h2> </summary>
+Coming Soon
+</details>
+
+<details> 
+<summary> <h2>Module 9 - Generative AI </h2> </summary>
+| Topic Name | What's Covered |
+| :---: | :---: |
+| Working with Text Data and Text Embeddings | What's Covered |
+| Transformers, LLMs, and Prompts | What's Covered |
+| LLM Model Provider SDK | What's Covered |
+| LLM Inference Provider SDK | What's Covered |
+| LangChain Essentials | What's Covered |
+| RAGs | What's Covered |
+| Orchestration with LangGraph | What's Covered |
+| Agentic AI | What's Covered |
+| Evaluation | What's Covered |
+| LangChain Microsoft Foundry SDK | What's Covered |
+</details>
