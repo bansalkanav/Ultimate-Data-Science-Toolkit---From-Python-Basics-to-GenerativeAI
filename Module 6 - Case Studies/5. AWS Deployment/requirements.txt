@@ -27,7 +27,7 @@ Pygments==2.17.2
 python-dateutil==2.8.2
 pytz==2024.1
 referencing==0.33.0
-requests==2.31.0
+requests==2.32.0
 rich==13.7.0
 rpds-py==0.18.0
 six==1.16.0
